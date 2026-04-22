@@ -6,9 +6,9 @@
 
 ## � Today's signal · Apr 22
 
-**🔍 Signal**: The highest distribution-leverage post on HN today is [Vercel April 2026 security incident](https://news.ycombinator.com/item?id=47824463) submitted by [@colesantiago](https://news.ycombinator.com/item?id=47824463) (864 points / 487 comments), and buried in the comment thread is a product nobody has built yet. @Vates writes: *'When one OAuth token can compromise dev tools, CI pipeline, secrets and deployment simultaneously, something architectural has gone wrong. Vercel have had React2Shell (CVSS 10), the middleware bypass'* — this isn't a complaint about Vercel, it's a description of a structural gap: there is no tool that tells developers which secrets their authorized OAuth apps have actually touched. @nettlin cites Vercel's official disclosure: *'the incident originated from a third-party AI tool whose Google Workspace OAuth app was the [initial vector]'* — the attack entry point was a Google OAuth app belonging to an AI tool, not Vercel's own code. This thread is on the front page right now, and the comments are still climbing.
+**🔍 Signal**: Today's HN front page is carrying a 1,435-point, 1,250-comment thread — [EU Mandatory Replaceable Battery Regulation](https://news.ycombinator.com/item?id=47834195), effective February 18, 2027. This is a hard regulatory deadline, and the distribution window is open right now. @blinkingled put his finger on the real product gap in the comments: *'Now they only need to make sure that a supply chain for replacement batteries exists, there is regulation and competition and options remain available for a reasonable price.'* — a visibility tool for the replacement parts supply chain does not exist today. @concinds was even more direct: *'you can easily replace the most-likely-to-break parts (screen, back, battery, etc) in any local independent repair shop, with genuine parts that have low marku'* — independent repair shops can't find genuine parts at low markups, and that information asymmetry is the market.
 
-@ivansenic puts the product gap most precisely: *'Vercel rolled out sensitive secrets on February 1, 2024, why were not all existing env vars transitioned to sensitive type? Why was there any assumption that any secret was safe?'* — the subtext here is that developers have no visibility into which of their environment variables are "sensitive," which OAuth apps have permission to read them, or which CI pipelines are passing them around. Meanwhile, on GitHub Trending, [multica-ai/multica](https://github.com/multica-ai/multica) (18,732 stars, +6,223 this week) is doing agent task orchestration, and [openai/openai-agents-python](https://github.com/openai/openai-agents-python) (24,435 stars) is doing multi-agent frameworks — not a single project is focused on OAuth permission auditing or secrets exposure surface scanning. The gap is real.
+The same day, [Framework Laptop 13 Pro](https://news.ycombinator.com/item?id=47852177) (1,426 points, 731 comments) hit HN's front page. @kelnos's first reaction was anxiety about chassis compatibility: *'My assumption was that this was a brand new, incompatible chassis, and that my current 13 would be obsolete'* — users are actively searching for a parts compatibility matrix, but Framework's own website hasn't turned that information into a queryable tool. These two threads are operating on exactly the same frequency: repairable hardware is becoming the policy buzzword of 2026, but the parts-queryability layer is still a blank space.
 
 ---
 
@@ -24,7 +24,7 @@
 
 | Date | Signal |
 |------|--------|
-| [Apr 22 / 4月22日](zh/2026-04-22.md) | 🔍 Signal: The highest distribution-leverage post on HN today… |
+| [Apr 22 / 4月22日](zh/2026-04-22.md) | 🔍 Signal: Today's HN front page is carrying a 1,435-point, 1… |
 
 [Full archive →](zh/)
 
