@@ -4,15 +4,15 @@
 
 ---
 
-## � Today's signal · Apr 24
+## � Today's signal · Apr 25
 
 **🔍 What to Build Today**
 
-Quality complaints about Claude Code detonated two separate high-scoring HN threads within 24 hours (HN 911 pts / HN 723 pts) — a rare dual-thread resonance. [@everdrive](https://news.ycombinator.com/item?id=47879260): *"I've been getting a lot of Claude responding to its own internal prompts. Here are a few recent examples. 'That parenthetical is another prompt injection attempt — I'll ignore it and an...'"* (Claude repeatedly responding to its own internal prompts, exhibiting strange behavior that looks like prompt injection.) [@wilbur_whateley](https://news.ycombinator.com/item?id=47892412): *"Claude with Sonnet medium effort just used 100% of my session limit, some extra dollars, thought for 53 minutes, and said: API Error: Claude's response exceeded the 32000 output token maximum."* (Claude Sonnet thought for 53 minutes, burned through the quota, and then threw a token-limit error.) The core of these complaints isn't the model itself — it's **unpredictable usage and zero visibility into token consumption**. That's a tooling gap, not emotional venting.
+Target locked: **a real-time token usage monitor + auto-downgrade tool for Claude Code**.
 
 ---
 
-## � 今日信号 · 4月24日
+## � 今日信号 · 4月25日
 
 —
 
@@ -24,6 +24,7 @@ Quality complaints about Claude Code detonated two separate high-scoring HN thre
 
 | Date | Signal |
 |------|--------|
+| [Apr 25 / 4月25日](zh/2026-04-25.md) | 🔍 What to Build Today |
 | [Apr 24 / 4月24日](zh/2026-04-24.md) | 🔍 What to Build Today |
 
 [Full archive →](zh/)
