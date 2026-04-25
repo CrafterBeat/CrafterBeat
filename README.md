@@ -6,9 +6,9 @@
 
 ## � Today's signal · Apr 25
 
-**🔍 What to Build Today**
+—
 
-Target locked: **a real-time token usage monitor + auto-downgrade tool for Claude Code**.
+*(See ZH report below)*
 
 ---
 
@@ -24,7 +24,7 @@ Target locked: **a real-time token usage monitor + auto-downgrade tool for Claud
 
 | Date | Signal |
 |------|--------|
-| [Apr 25 / 4月25日](zh/2026-04-25.md) | 🔍 What to Build Today |
+| [Apr 25 / 4月25日](zh/2026-04-25.md) |  |
 | [Apr 24 / 4月24日](zh/2026-04-24.md) | 🔍 What to Build Today |
 
 [Full archive →](zh/)
