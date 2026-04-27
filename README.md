@@ -1,54 +1,39 @@
 # CrafterBeat 创造者日报
 
-_每天扫 10+ 信源（HN / GitHub / PH / HuggingFace / Google Trends / Reddit / PyPI / npm / Crates.io），20 个章节交叉验证，只留有数据的信号。_
-_一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
-
-[**中文版**](#chinese) · [**English**](#english)
+*By 长歌 · Chang Ge — 每天扫 10+ 信源（HN / GitHub / PH / HuggingFace / Google Trends / Reddit / PyPI / npm / Crates.io），22 个章节交叉验证，只留有数据的信号*
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 4月27日
+## � Today's signal · Apr 27
 
-> **域名安全看板**：用 GoDaddy Domains API + Cloudflare API + SQLite + Streamlit 监控域名所有权变更，任何 `registrantContact` 或 `nameServers` 字段变化立即触发 Resend 告警。选它是因为 [GoDa
+**🔍 What to Build Today**
 
-行动判断**：在 litellm 基础上构建跨模型成本/质量监控看板，今天是卡位窗口。
-
-<p align="center">
-
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-04-27.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-04-27.md)
-
-</p>
-
-[完整归档 →](zh/)
+The core selection criterion is distribution leverage. [@Oravys](https://news.ycombinator.com/item?id=47919630)'s Mercor breach post on HN (407 points, 154 comments) is fermenting on the front page right now — 4TB of voice samples stolen by Lapsus$, 40,000 AI contractors affected. [@oefrha](https://news.ycombinator.com/item?id=47922388) called out the interesting business move directly in the comments: "Awesome, if you're a victim of a" (comment truncated, but the intent is clear: ORAVYS is using a free verification service as a customer acquisition funnel). The problem is that ORAVYS currently offers manual analysis, capped at three free samples, with no self-serve layer. That's today's gap.
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Apr 27
+## � 今日信号 · 4月27日
 
-> **Domain Security Dashboard**: Monitor domain ownership changes using the GoDaddy Domains API + Cloudflare API + SQLite + Streamlit, with instant Rese
+—
 
 
-
-<p align="center">
-
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-04-27.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-04-27.md)
-
-</p>
-
-[Full archive →](en/)
 
 ---
 
-## About / 这是什么
+## Recent signals / 近期信号
 
-**Who this is for:** indie hackers, MicroSaaS founders, and tech entrepreneurs who want one high-conviction build direction per day — not another feed to scroll.
+| Date | Signal |
+|------|--------|
+| [Apr 27 / 4月27日](zh/2026-04-27.md) | 🔍 What to Build Today |
 
-**How it works:** every morning, cross-validate 10+ live data sources across 20 chapters — opportunity discovery, tech stack picks, competitive intel, trend signals, and action triggers — publishing only data-backed findings with specific numbers, links, and actionable takeaways.
+[Full archive →](zh/)
 
-**面向谁：** 独立开发者和技术创业者。每天一个有数据支撑的构建方向，不是又一个刷不完的信息流。
+---
 
-**怎么做的：** 每天早上交叉验证 10+ 数据源，覆盖 20 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
+## What is CrafterBeat / 这是什么
+
+CrafterBeat is a daily intelligence briefing for indie developers and tech entrepreneurs. Every morning it cross-references 10+ data sources across 22 chapters — from opportunity discovery and tech stack picks to competitive intel and trend signals — and publishes only data-backed findings with specific numbers, links, and actionable takeaways.
+
+CrafterBeat 是给独立开发者和技术创业者的每日情报简报。每天早上交叉验证 10+ 数据源，覆盖 22 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
 
 ⭐ Star this repo to get daily updates · Star 本仓库，在 GitHub 动态里接收每日更新
