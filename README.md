@@ -1,39 +1,54 @@
 # CrafterBeat 创造者日报
 
-*By 长歌 · Chang Ge — 每天扫 10+ 信源（HN / GitHub / PH / HuggingFace / Google Trends / Reddit / PyPI / npm / Crates.io），22 个章节交叉验证，只留有数据的信号*
+_每天扫 10+ 信源（HN / GitHub / PH / HuggingFace / Google Trends / Reddit / PyPI / npm / Crates.io），20 个章节交叉验证，只留有数据的信号。_
+_一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
+
+[**中文版**](#chinese) · [**English**](#english)
 
 ---
 
-## � Today's signal · May 3
+## <a id="chinese"></a>💡 今日信号 · 5月4日
 
-**🔨 Build Today: Copilot Commit Cleaner**
+> **今日三则**
 
-Today's sharpest distribution window sits squarely on the VS Code / Copilot commit-pollution problem. The HN post by [@indrora](https://news.ycombinator.com/item?id=47989883) (1,455 points, 804 comments) is actively fermenting on the front page. [@yankohr](https://news.ycombinator.com/item?id=47990808) puts it bluntly: "This feels like the modern version of 'Sent from my iPhone' but much more invasive. Git commits are legal and technical records." [@mister_mort](https://news.ycombinator.com/item?id=47990582) twists the knife: "This is pumping someone's metrics up inside of Microsoft, somewhere." [@amarant](https://news.ycombinator.com/item?id=47990556) keeps it tighter: "Microsoft is such a master class in how to make me hate you, quickly." The anger is real, the need is today's, and the distribution window is right now.
+行动判断**：给 AutoGen / multi-agent 工作流做 token 成本归因层，今天开始比下周开始有结构性先发优势。
 
----
+<p align="center">
 
-## � 今日信号 · 5月3日
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-04.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-04.md)
 
-—
+</p>
 
-
-
----
-
-## Recent signals / 近期信号
-
-| Date | Signal |
-|------|--------|
-| [May 3 / 5月3日](zh/2026-05-03.md) | 🔨 Build Today: Copilot Commit Cleaner |
-
-[Full archive →](zh/)
+[完整归档 →](zh/)
 
 ---
 
-## What is CrafterBeat / 这是什么
+## <a id="english"></a>💡 Today's signal · May 4
 
-CrafterBeat is a daily intelligence briefing for indie developers and tech entrepreneurs. Every morning it cross-references 10+ data sources across 22 chapters — from opportunity discovery and tech stack picks to competitive intel and trend signals — and publishes only data-backed findings with specific numbers, links, and actionable takeaways.
+> **Top 3 Signals**
 
-CrafterBeat 是给独立开发者和技术创业者的每日情报简报。每天早上交叉验证 10+ 数据源，覆盖 22 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
+Action judgment**: Build a token cost attribution layer for AutoGen / multi-agent workflows. Starting today carries a structural first-mover advantage over starting next week.
+
+<p align="center">
+
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-04.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-04.md)
+
+</p>
+
+[Full archive →](en/)
+
+---
+
+## About / 这是什么
+
+**Who this is for:** indie hackers, MicroSaaS founders, and tech entrepreneurs who want one high-conviction build direction per day — not another feed to scroll.
+
+**How it works:** every morning, cross-validate 10+ live data sources across 20 chapters — opportunity discovery, tech stack picks, competitive intel, trend signals, and action triggers — publishing only data-backed findings with specific numbers, links, and actionable takeaways.
+
+**面向谁：** 独立开发者和技术创业者。每天一个有数据支撑的构建方向，不是又一个刷不完的信息流。
+
+**怎么做的：** 每天早上交叉验证 10+ 数据源，覆盖 20 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
 
 ⭐ Star this repo to get daily updates · Star 本仓库，在 GitHub 动态里接收每日更新
