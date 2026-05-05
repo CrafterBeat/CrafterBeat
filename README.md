@@ -1,54 +1,39 @@
 # CrafterBeat 创造者日报
 
-_每天扫 10+ 信源（HN / GitHub / PH / HuggingFace / Google Trends / Reddit / PyPI / npm / Crates.io），20 个章节交叉验证，只留有数据的信号。_
-_一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
-
-[**中文版**](#chinese) · [**English**](#english)
+*By 长歌 · Chang Ge — 每天扫 10+ 信源（HN / GitHub / PH / HuggingFace / Google Trends / Reddit / PyPI / npm / Crates.io），22 个章节交叉验证，只留有数据的信号*
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 5月5日
+## � Today's signal · May 5
 
-> **🔍 信号**：今日 Show HN 的三个发布指向两个共性方向——**本地隐私优先的 AI 工具**和**个人数据的主权化管理**。前者以端侧推理替代云端依赖，后者让用户掌控自己的收藏与评估数据，而非交给平台。
+**🔧 What to Build in 2 Hours Today**
 
-行动判断**：今天是在 Claude Code 信任危机最热的72小时内，用 TUI 做架构审计工具的最佳时间窗口。
-
-<p align="center">
-
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-05.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-05.md)
-
-</p>
-
-[完整归档 →](zh/)
+**Key Judgment**: Spend 2 hours building a "Chrome AI Model Fleet Scanner" — a CLI tool / lightweight web dashboard for enterprise IT admins that scans the Chrome Optimization Guide cache directory across Windows/macOS machines and outputs: Gemini Nano storage footprint per machine, download timestamp, and corresponding Chrome version. Here's the exact tech stack. Step one: use Python `pathlib` to scan `%LOCALAPPDATA%\Google\Chrome\User Data\optimization_guide_model_store\` on Windows and `~/Library/Application Support/Google/Chrome/` on macOS. Step two: use `subprocess` to call `reg query` and read Chrome Group Policy registry keys, determining whether the model can be disabled via the `ChromeMLModelAllowed` policy. Step three: use the `rich` library to render a color-coded table, or Flask + 5 lines of HTML for a screenshot-ready dashboard. No external APIs required. Package it as a single executable via PyInstaller. Pricing model: open-source on GitHub for top-of-funnel traffic, enterprise licensed tier (bulk deployment + SIEM integration) at $49/month — and today, you ride the HN front-page wave by dropping your GitHub link directly in the comments.
 
 ---
 
-## <a id="english"></a>💡 Today's signal · May 5
+## � 今日信号 · 5月5日
 
-> **Top 3 Signals**
+—
 
-Action judgment**: The best window to ship a TUI architectural audit tool is right now — inside the 72 hours when the Claude Code trust crisis is running hottest.
 
-<p align="center">
-
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-05.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-05.md)
-
-</p>
-
-[Full archive →](en/)
 
 ---
 
-## About / 这是什么
+## Recent signals / 近期信号
 
-**Who this is for:** indie hackers, MicroSaaS founders, and tech entrepreneurs who want one high-conviction build direction per day — not another feed to scroll.
+| Date | Signal |
+|------|--------|
+| [May 5 / 5月5日](zh/2026-05-05.md) | 🔧 What to Build in 2 Hours Today |
 
-**How it works:** every morning, cross-validate 10+ live data sources across 20 chapters — opportunity discovery, tech stack picks, competitive intel, trend signals, and action triggers — publishing only data-backed findings with specific numbers, links, and actionable takeaways.
+[Full archive →](zh/)
 
-**面向谁：** 独立开发者和技术创业者。每天一个有数据支撑的构建方向，不是又一个刷不完的信息流。
+---
 
-**怎么做的：** 每天早上交叉验证 10+ 数据源，覆盖 20 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
+## What is CrafterBeat / 这是什么
+
+CrafterBeat is a daily intelligence briefing for indie developers and tech entrepreneurs. Every morning it cross-references 10+ data sources across 22 chapters — from opportunity discovery and tech stack picks to competitive intel and trend signals — and publishes only data-backed findings with specific numbers, links, and actionable takeaways.
+
+CrafterBeat 是给独立开发者和技术创业者的每日情报简报。每天早上交叉验证 10+ 数据源，覆盖 22 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
 
 ⭐ Star this repo to get daily updates · Star 本仓库，在 GitHub 动态里接收每日更新
