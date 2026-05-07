@@ -7,16 +7,16 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 5月6日
+## <a id="chinese"></a>💡 今日信号 · 5月7日
 
-> **GitHub → Forgejo 迁移审计工具**——输入 GitHub 仓库 URL，输出迁移风险报告（失效链接 / GitHub Actions 依赖 / 无对等物的 Discussion）。技术栈：PyGitHub + Anthropic claude-haiku-3-5 + Stream
+> **今日三则**
 
-行动判断**：在 deepsec 的 GitHub 和 HN 讨论区埋下你的差异化定位——专门针对 AI 生成代码的多租户权限漏洞扫描。
+行动判断**：给内部工具自动生成 MCP endpoint 的工具，今天是最早可以动手的时间点，也是竞争者最少的时间点。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-06.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-06.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-07.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-07.md)
 
 </p>
 
@@ -24,16 +24,16 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="english"></a>💡 Today's signal · May 6
+## <a id="english"></a>💡 Today's signal · May 7
 
-> **GitHub → Forgejo Migration Audit Tool** — input a GitHub repo URL, output a migration risk report covering broken links, GitHub Actions dependencies
+> **Top 3 Signals**
 
-Action judgment**: Plant your differentiated positioning inside deepsec's GitHub repo and HN discussion thread — specifically targeting multi-tenant permission vulnerability scanning for AI-generated 
+
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-06.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-06.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-07.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-07.md)
 
 </p>
 
