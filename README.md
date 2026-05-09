@@ -7,16 +7,16 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 5月8日
+## <a id="chinese"></a>💡 今日信号 · 5月9日
 
-> **AI Slop 检测器**——给 Reddit/Discord 版主的 Telegram Bot，输入账号历史+帖子，输出 0-100 AI 生成评分和信号列表。技术栈：Anthropic Messages API + FastAPI + python-telegram-bot + Stripe
+> **今日三则**
 
-行动判断：今天从HN评论区找 [@CrzyLngPwd](https://news.ycombinator.com/item?id=48053908) 这类版主，2小时之内把 Telegram Bot 跑起来，用他们的真实案例验证 $29 付费。
+行动判断**：今天不是构建 Dirty Frag 扫描器的最优时机——而是把一个 Agent 操作快照 MVP 的链接丢进 doshay 的 Show HN 评论区。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-08.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-08.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-09.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-09.md)
 
 </p>
 
@@ -24,16 +24,16 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="english"></a>💡 Today's signal · May 8
+## <a id="english"></a>💡 Today's signal · May 9
 
-> **AI Slop Detector**—a Telegram Bot for Reddit and Discord moderators. Input: account history + post content. Output: a 0–100 AI-generation score plus
+> **The build: a Dirty Frag mitigation status detector, 2 hours.**
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-08.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-08.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-09.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-09.md)
 
 </p>
 
