@@ -9,31 +9,17 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ## <a id="chinese"></a>💡 今日信号 · 5月18日
 
-> **今日三则**
+—
 
-行动判断：今天发 Claude Code 上下文快照 CLI 的 Show HN，在热度窗口彻底消失前占据这个品类的搜索位。**
 
-<p align="center">
-
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-18.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-18.md)
-
-</p>
 
 ---
 
 ## <a id="english"></a>💡 Today's signal · May 18
 
-> **Top 3 Signals**
+—
 
-
-
-<p align="center">
-
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-18.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-18.md)
-
-</p>
+*(See ZH report below)*
 
 ---
 <a id="glance"></a>
@@ -43,31 +29,37 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | Zerostack用Rust实现8MB内存占用直击Claude Code多GB痛点，coding agent基础设施层之战开打 |
-| 2 | 哪些搜索词暴涨 | OpenClaw单周四词同时Breakout，用户从"听说"到"想部署"完成完整漏斗，但热度已从峰值回落89% |
-| 3 | GitHub 上哪些快速增长的开源项… | 两个纯CLAUDE.md配置repo单周斩获15万星，Claude Code迁移潮爆发但配置管理工具空白仍在 |
-| 4 | 开发者在抱怨哪些工具 | FAANG每人$300/天token配额被当生产力指标强推，管理层用耗量代替质量度量AI效果 |
+| 1 | 有哪些 solo-founder 产… | 隐私删除与本地文件控制成今日发布主轴，"控制权归还"主题在HN与PH同步爆发 |
+| 2 | 哪些搜索词暴涨 | "Context engineering"四词同周期Breakout，开发者将agent上下文管理从技巧升级为工程学科 |
+| 3 | GitHub 上哪些快速增长的开源项… | TradingAgents缺失审计日志层是明确付费缺口，金融agent决策可溯源是机构真实采购需求 |
+| 4 | 开发者在抱怨哪些工具 | 工具隐形副作用被转移给用户却不可见不可证，Chrome写入4GB等事件暴露"安装≠同意"假设全面失效 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | Kickstarter被支付处理商强制禁成人内容，访问边界的真实控制权藏在合同之外 |
-| 6 | 增长最快的开发者工具有哪些 | agent observability工具本周集中爆发，但各大框架内置tracing将在4-6周内关闭差异化窗口 |
-| 7 | HuggingFace 上最热的模型… | 本周HF热榜向本机可跑的小模型位移，视觉/TTS/本地LLM同时登榜指向私密本地工作流需求 |
-| 8 | 最重要的开源 AI 进展是什么 | agentmemory单周GitHub/PH双榜登顶，Claude Code会话间上下文遗忘成开源AI最强验证痛点 |
-| 9 | 最受欢迎的 Show HN 项目在用… | 本周技术栈共识只有一个词CLAUDE.md，自然语言+Markdown正在取代Python成新的配置语言 |
+| 5 | 有没有大公司关闭或降级了产品 | Anthropic取消订阅即锁Claude Design访问权，"付费期间数据"承诺撕毁触发本周最高情绪热度 |
+| 6 | 增长最快的开发者工具有哪些 | 本周开发工具注意力聚焦于将coding agent隐形行为变成可检查界面，agent-skills单周暴涨2.6万星 |
+| 7 | HuggingFace 上最热的模型… | 本地模型基础设施已够用，HuggingFace本周热门指向缺口是file-in/file-out的消费级私有文件处理产品 |
+| 8 | 最重要的开源 AI 进展是什么 | 开源AI本周核心进展是agent上下文控制层与供应链维护者信任危机两方向同时爆发 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 本周Show HN最强共识是用无依赖开放栈替换"感知开源"闭源工具，Obsidian许可证风险敞口被首次大规模感知 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | AI把"零到demo"压缩到一个早晨，但同步摧毁了赖以分发的渠道，早期变现窗口正在收窄 |
-| 11 | 有没有沉寂的老项目突然复活 | TradingAgents等数年老项目本周集体复活，LLM工具链扩散正把沉睡仓库重新拉入"有用"射程 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 远程证明正成为平台控制基础设施层，reCAPTCHA/Bitlocker/年龄验证三条路径汇聚同一技术层 |
+| 10 | Indie 开发者在讨论哪些收入和定… | Indie变现最优路径：自身痛点定需求→SEO零成本验证→LTD快速过现金流门槛→再切订阅制 |
+| 11 | 有没有沉寂的老项目突然复活 | claude-context与codegraph同周爆发，agent上下文窗口效率痛点达临界密度引发老项目集体复活 |
+| 12 | 有没有“XX 已死”或迁移类文章 | 企业CTO正重新评估OpenAI/Anthropic订阅组合，预算向自托管混合策略迁移的信号已形成 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | Claude Code周均热度较3月暴涨57%，GitHub三项目周星合计超17万，生态已完成基础设施化 |
-| 14 | VC 和 YC 正在关注哪些话题 | agent记忆-执行缺口开始产生真实收入，企业AI订阅风险从情绪转结构性，合规控费工具窗口打开 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | skill file registry是假衰退，Python type checker是真降温，两者需区分对待 |
+| 14 | VC 和 YC 正在关注哪些话题 | 本周VC钱流交汇于AI工作流可信度基础设施、可穿戴数据商业化、搜索流量结构性重组三条主线 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | CLAUDE.md一周17万星说明用户规模够大但工具不够好，现在做项目上下文快照CLI是最短验证路径 |
-| 16 | 哪些定价和变现模型值得研究 | 30天$1300MRR中$1000集中最后6天，AI工具早期变现应把月费验证周期压缩在30天以内 |
-| 17 | 最反直觉的发现是什么 | Zerostack靠内存牌获542分，但Rust AI运行时核心包同周下载量崩跌超60%，性能叙事是伪命题 |
-| 18 | Product Hunt 产品和开发… | AI agent持久化上下文是今日PH与开发者工具重叠密度最高赛道，视频生成竞争已向基础设施层下沉 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 最值得用周末验证的缺口：agent代码搜索的需求侧是上下文成本，不是搜索精度本身 |
+| 16 | 哪些定价和变现模型值得研究 | SEO冷启动71用户验证真实需求后应立即将定价从$19涨至$29-39，SEO流量付费意愿高于社群流量 |
+| 17 | 最反直觉的发现是什么 | AI编码工具加速的真正瓶颈是需求工程而非写代码，软件开发中编码占比不足50% |
+| 18 | Product Hunt 产品和开发… | GitHub三项目单周合计暴涨18万星，均指向同一空缺：让Claude Code在大型代码库里更便宜可靠地工作 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | 免费绕付费墙工具与LLM金融终端集成同周在英文社区爆发，中文媒体覆盖度双双低于0.45 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | llama-index周下载329万且增12.9%无人讨论，AI代码助手生成的RAG样板正成最大隐形包推广渠道 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | claude-context生产级MCP基础设施深度对比评测在中文世界基本空白，是当前最具时效性的内容机会 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | Rust/axum脚手架包同步增长仅一周数据，需连续三周确认才能排除AI平台单次推荐造成的脉冲噪声 |
+
+## Recent signals / 近期信号
+
+| Date | Signal |
+|------|--------|
+| [May 18 / 5月18日](zh/2026-05-18.md) |  |
 
 [完整归档 / Full archive →](zh/)
 
@@ -75,12 +67,8 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ## About / 这是什么
 
-**Who this is for:** indie hackers, MicroSaaS founders, and tech entrepreneurs who want one high-conviction build direction per day — not another feed to scroll.
+CrafterBeat is a daily intelligence briefing for indie developers and tech entrepreneurs. Every morning it cross-references 10+ data sources across 20 chapters — from opportunity discovery and tech stack picks to competitive intel and trend signals — and publishes only data-backed findings with specific numbers, links, and actionable takeaways.
 
-**How it works:** every morning, cross-validate 10+ live data sources across 20 chapters — opportunity discovery, tech stack picks, competitive intel, trend signals, and action triggers — publishing only data-backed findings with specific numbers, links, and actionable takeaways.
-
-**面向谁：** 独立开发者和技术创业者。每天一个有数据支撑的构建方向，不是又一个刷不完的信息流。
-
-**怎么做的：** 每天早上交叉验证 10+ 数据源，覆盖 20 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
+CrafterBeat 是给独立开发者和技术创业者的每日情报简报。每天早上交叉验证 10+ 数据源，覆盖 20 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
 
 ⭐ Star this repo to get daily updates · Star 本仓库，在 GitHub 动态里接收每日更新
