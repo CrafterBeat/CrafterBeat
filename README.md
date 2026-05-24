@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 5月23日
+## <a id="chinese"></a>💡 今日信号 · 5月24日
 
-> **AI 生成代码库的轻量级可信度扫描器**：给定一个 GitHub repo 或本地目录，用静态分析 + LLM 解释，输出哪些文件没有对应测试、哪些逻辑路径无人工审查记录、哪些依赖链是 AI 一次性生成后未修改过的。目标用户是用 Claude Code / Cursor 做 vibe codin
+> **本地 Oura/Whoop 数据审计工具**：用 Open Wearables 的开源 OAuth 接口拉取原始健康数据，调用 claude-3-5-sonnet 生成自然语言"数据暴露摘要"，Streamlit 本地部署，不建后端。今天 HN 上 Oura 帖（253分）还在首页，[@sz4k
 
-
+行动判断**：今天做 crewai 的轻量可观测层，比做任何新的 agent 产品都更有确定性。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-23.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-23.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-24.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-24.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · May 23
+## <a id="english"></a>💡 Today's signal · May 24
 
-> **A lightweight trust scanner for AI-generated codebases.** Given a GitHub repo or local directory, it uses static analysis plus LLM interpretation to
+> **A local audit tool for Oura/Whoop data**: pull raw health data via Open Wearables' open-source OAuth interface, call `claude-3-5-sonnet` to generate
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-23.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-23.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-24.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-24.md)
 
 </p>
 
@@ -43,31 +43,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 浏览器端QR码文件传输技术已三度出现于HN，属历史复现警告非新机会 |
-| 2 | 哪些搜索词暴涨 | 自托管AI agent记忆层存在明确需求缺口，"Hermes兼容+私有部署"是72小时可切入的长尾窗口 |
-| 3 | GitHub 上哪些快速增长的开源项… | GitHub增长最快的AI基础设施三项目合计新增4万星却无商业化，开源爆发期变现窗口窄且真实 |
-| 4 | 开发者在抱怨哪些工具 | 开发者核心抱怨不是工具烂，而是系统性置身"后果可见、成因不可追溯"的困境 |
+| 1 | 有哪些 solo-founder 产… | 本地agent可靠性成生产部署核心矛盾，小模型工具调用失败率被严重低估 |
+| 2 | 哪些搜索词暴涨 | "harness engineering"双窗口Breakout，OpenAI内部新职能概念正从内部外溢为行业搜索热词 |
+| 3 | GitHub 上哪些快速增长的开源项… | VSCode扩展入侵事件推动开发者工具链安全审计需求，bumblebee等扫描工具无商业版本的空白正在扩大 |
+| 4 | 开发者在抱怨哪些工具 | 开发者不知道agent pipeline在哪个子任务悄悄失败，小模型工具调用盲区是最大未解痛点 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | Anthropic收购后Bun路线图转向，供应商承诺失效成本周最强基础设施迁移信号 |
-| 6 | 增长最快的开发者工具有哪些 | AI工具链增长核心逻辑是将隐形状态变为可操作界面，CLI正成为AI工作流主界面层 |
-| 7 | HuggingFace 上最热的模型… | HuggingFace本周主线是"跑得起来的工作流模型"，单卡本地推理成消费级产品核心门槛 |
-| 8 | 最重要的开源 AI 进展是什么 | 开源AI最强信号来自运营层：谁控制路由、谁审PR、谁持有数据三个维度同时松动 |
-| 9 | 最受欢迎的 Show HN 项目在用… | 本周Show HN热门技术栈共同指向：把重型基础设施能力压缩进浏览器端零依赖实现 |
+| 5 | 有没有大公司关闭或降级了产品 | 微软GitHub被攻陷暴露同一公司内信任链结构性失效，3800个内部仓库遭穿透 |
+| 6 | 增长最快的开发者工具有哪些 | coding agent进入"管理agent行为本身"阶段，awesome-codex-skills单周涨1万星验证结构性迁移 |
+| 7 | HuggingFace 上最热的模型… | DeepSeek降价75%+Qwen3在8GB显卡跑通，本地推理成本门槛单周内被实质性突破 |
+| 8 | 最重要的开源 AI 进展是什么 | 本地记忆+本地模型组合需求爆发，Memdex和note.md同周冲榜指向用户拒绝平台托管上下文 |
+| 9 | 最受欢迎的 Show HN 项目在用… | openhuman单周16K星选Rust而非Python，隐私定位+本地推理性能让Rust首次成消费AI产品可信技术栈 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | Token计费摧毁SaaS预算预测逻辑，indie开发者成本函数与客户定价预期严重错配 |
-| 11 | 有没有沉寂的老项目突然复活 | 开发者翻历史库存寻找可套用于Claude Code工作流的行为规范层，CLAUDE.md叙事持续扩张 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 云平台封号、法律强制关停、AI工具隐形替换三信号并发，基础设施信任崩塌迁移决策已从"是否"变为"去哪里" |
+| 10 | Indie 开发者在讨论哪些收入和定… | indie SaaS最可复制路径是定价先于产品，MVP前锁定单价+激励+收入模型公开写入landing page |
+| 11 | 有没有沉寂的老项目突然复活 | 12-factor-agents因agent批量操作进入真实代码库而复活，"agent失控"从技术问题变为部署阻塞问题 |
+| 12 | 有没有“XX 已死”或迁移类文章 | 微软强制将内部开发者从Claude Code迁回Copilot，企业采购方与用户工具选择出现结构性对抗 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | Agent编排层从实验脚本走向可重复方法论，外部记忆管理已成独立子方向 |
-| 14 | VC 和 YC 正在关注哪些话题 | AI工作流层吸走PM工具预算、云基础设施单点故障风险、SEO内容AI化是本周VC三大关注主线 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | 代码知识图谱三项目单周合计3.2万星，agent持久化结构理解层成工程师直接安装的新基础设施 |
+| 14 | VC 和 YC 正在关注哪些话题 | Open Wearables票数是第二名三倍，可穿戴数据接入层成本周VC最强信号 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | Bun被Anthropic收购后路线转向，"自带电池的非vibe-coded Node替代品"需求在评论区反复摩擦无人接住 |
-| 16 | 哪些定价和变现模型值得研究 | 单功能SaaS"极窄功能+订阅"结构可行，唯一附带真实付费数字的创始人自证来自4个月13名用户 |
-| 17 | 最反直觉的发现是什么 | 学生喝倒彩AI演讲却为Woz欢呼，真实信号是情绪认同优先于立场正确，AI创业者需重估用户接受度曲线 |
-| 18 | Product Hunt 产品和开发… | 开发者正将知识库格式推向LLM可直接消费方向，llms.txt与Markdown管理工具在HN与GitHub双源交叉印证 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | Oura数据无端到端加密+政府索取数据，隐私压力从抽象担忧变为具体风险，本地健康数据工具窗口开启 |
+| 16 | 哪些定价和变现模型值得研究 | 个人用OpenCode跑一周末烧$50，使用量计费正在对agent增长逻辑产生结构性抑制 |
+| 17 | 最反直觉的发现是什么 | 微软砍Claude Code许可同期crewai周下载涨37%，AI编码采用从个人副驾驶迁向多agent团队编排 |
+| 18 | Product Hunt 产品和开发… | 跨会话跨模型AI状态持久化是PH与开发者工具最密集重叠方向，MCP让持久上下文从概念变为可安装产品 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | GCP无预警封号事件揭示LLM推理流量天然触碰平台反欺诈阈值，多云故障转移编排是中文媒体未碰的产品机会 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | crewai单周下载量421万且增长44.5%却零公开讨论，企业内网多agent原型与课程批量安装是最可能双驱动 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | LPDDR5与HBM供应缺口推高本地推理门槛，端侧AI硬件瓶颈被中文社区完全忽视 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | crewai周下载408万涨37%却零社区讨论，多agent编排采用已绕过社区直接进入工程团队生产环境 |
 
 [完整归档 / Full archive →](zh/)
 
