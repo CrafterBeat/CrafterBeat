@@ -7,67 +7,66 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 5月25日
+## <a id="chinese"></a>💡 今日信号 · 5月26日
 
-> **邮件/通知可信度 Chrome 扩展**——在 Gmail/Outlook Web DOM 中对每封邮件的发件域名实时打可信度分，专门识别 AI Agent 代发消息和合法域名被滥用场景。技术栈：Chrome Extension Manifest V3 + Anthropic Messages 
+> **今日三则**
 
-行动判断**：今天做 crewai + ollama 的轻量可观测性层，比下周做更值钱，因为这批用户正处于"刚够大、还没爆"的临界点。
+行动判断**：做 agent session 的审计层，今天进入 hermes/YourMemory 的搜索流量就是你的第一批用户。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-25.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-25.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-05-26.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-05-26.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · May 25
+## <a id="english"></a>💡 Today's signal · May 26
 
-> **Email/Notification Trust-Scoring Chrome Extension** — real-time credibility scoring of sender domains on every email in Gmail and Outlook Web, purpo
+> **Top 3 Signals**
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-25.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-25.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-05-26.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-05-26.md)
 
 </p>
 
 ---
 <a id="glance"></a>
 
-## 📋 今日 20 章速览 / Today at a Glance
+## 📋 今日 19 章速览 / Today at a Glance
 
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | Mac原生工具层与AI使用断点防御是今日独立创始人发布的两大核心方向 |
-| 2 | 哪些搜索词暴涨 | "context engineering"系列词正处上升初期，标志开发者从单轮prompt转向多轮agent工作流管理 |
-| 3 | GitHub 上哪些快速增长的开源项… | claude-zeroclaw-agentics暴露团队级agent场景的真实空白：采购方要的是可审计、可回滚的agent |
-| 4 | 开发者在抱怨哪些工具 | 开发者正在承受隐形义务带来的工具成本 |
+| 1 | 有哪些 solo-founder 产… | 本地优先工具与agent持久记忆层同日爆发，补云依赖逃离和跨会话上下文两个基础设施缺口 |
+| 2 | 哪些搜索词暴涨 | "agent memory"品类需求激活，hermes系列词双双Breakout，开发者跳过认知阶段直接找可部署方案 |
+| 3 | GitHub 上哪些快速增长的开源项… | TradingAgents单周+27K星，agent在结构性约束下系统性失效且无工具可检测，商业层完全空白 |
+| 4 | 开发者在抱怨哪些工具 | 平台停止维护却不通知用户，隐形义务转移成核心抱怨，Google Antigravity案例最典型 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | 云端TTS平台持续压缩免费层，ebook2audiobook爆发是用户对"承诺悄然变化"的集体反弹 |
-| 6 | 增长最快的开发者工具有哪些 | coding agent生成速度已超人类review能力，本周增长最快工具均指向约束与审计这一核心矛盾 |
-| 7 | HuggingFace 上最热的模型… | HuggingFace榜单重心从"模型更聪明"转向"本地可审核的批量工作流" |
-| 8 | 最重要的开源 AI 进展是什么 | 本周开源AI真正落地的是运营控制层：记忆持久化、路由容错、本地数据主权三向同步推进 |
-| 9 | 最受欢迎的 Show HN 项目在用… | Anthropic直接用Python做金融垂直行业参考实现，AI应用层主战场仍是Python |
+| 5 | 有没有大公司关闭或降级了产品 | Broadcom产品在架但固件下架，"产品存在"与"产品可用"悄然分裂，企业用户将滞后6-18月感知 |
+| 6 | 增长最快的开发者工具有哪些 | agent操作审计层是最窄可行切口，$299/月面向工程团队卖成本+权限+变更审批三件套 |
+| 7 | HuggingFace 上最热的模型… | HuggingFace热榜向"更小能跑能看文件"收敛，社区关注点从模型能力转向本地部署与数据隐私 |
+| 8 | 最重要的开源 AI 进展是什么 | 本周开源AI核心矛盾是谁控制数据流向，Yoti人脸数据共享第三方曝光引爆信任危机 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 本地协议垫片vs云端渲染两种选型同周出现，垫片架构受众极窄但需求明确 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | 本周独立开发者定价信号极弱，唯一真实讨论是变革者在传统企业遭遇信任断层的组织阻力 |
-| 11 | 有没有沉寂的老项目突然复活 | scientific-agent-skills因agentic workflow进入落地期被重新发现，老技能库正在批量复活 |
-| 12 | 有没有“XX 已死”或迁移类文章 | Oura隐私争议激活健康数据迁移窗口，但历史先例显示锁定效应强于隐私焦虑 |
+| 10 | Indie 开发者在讨论哪些收入和定… | 40%AI创始人做无边界通用Agent，产品定价失效根源是买家不知道自己在为什么付钱 |
+| 11 | 有没有沉寂的老项目突然复活 | 教皇AI通谕在HN获1328分，"技术从不中立"叙事引发建造者责任感的集体共鸣 |
+| 12 | 有没有“XX 已死”或迁移类文章 | Jira图灵完备帖是文化迁移信号，集体情绪指向用API自动化替代手工操作Jira的需求 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | coding agent正从话题词跃迁为工程基础设施词，behavior diff checker成为新兴可执行工具类别 |
-| 14 | VC 和 YC 正在关注哪些话题 | agent供应链可靠性、本地优先产品化、AI工作流合规变现是本周VC三大关注信号 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | MCP从峰值100跌至16且下载无支撑确认真实衰退，dspy周下载-20%是使用减少非话题疲劳 |
+| 14 | VC 和 YC 正在关注哪些话题 | 钱本周追三个方向：Context Layer卡位、AI盈利可审计工具、Google转向对话搜索触发的替代迁移 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 2小时内可用Chrome扩展+Claude Haiku构建邮件可信度评分MVP，打AI代发消息的即时防护 |
-| 16 | 哪些定价和变现模型值得研究 | 三款Mac本地工具近700票共同印证：用户正在为"摆脱按用量计费的月底恐惧"投票 |
-| 17 | 最反直觉的发现是什么 | AI是技术乘数而非加法器：能把效率提升10倍的人，是本来就能独立完成任务的高手 |
-| 18 | Product Hunt 产品和开发… | 在9router开源路由基础上加团队级agent会话审计与费用分摊，是PH与开发者工具最清晰的交叉机会 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 评论区真实用户推荐比AI生成文章更受信任，基础设施信任危机是本周末最值得切入的产品方向 |
+| 16 | 哪些定价和变现模型值得研究 | "10000个B2C用户可以一分钱不给你"成周内最高共鸣句，B2B只需赢过一张表格的认知正在扩散 |
+| 17 | 最反直觉的发现是什么 | Together AI单周下载-67%，需求未消失而是迁移，推理层供应商切换成本近零是真实信号 |
+| 18 | Product Hunt 产品和开发… | AI生成数字缺乏数据溯源是付费意愿已验证的痛点，但text-to-SQL工具6-9个月内会原生集成此功能 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | 设备端TTS（Supertonic）与自带密钥并行Agent IDE（Orca）正在英文圈成型，中文社区几乎未跟进 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | crewai周增29%异常领跑，agent编排层正在从langchain手中接管增量市场 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | $48K自建GPU服务器真实账单帖HN破1250分，中文技术社区缺乏附实际发票的本地推理成本核算内容 |
 
 [完整归档 / Full archive →](zh/)
 
