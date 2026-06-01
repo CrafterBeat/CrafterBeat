@@ -7,59 +7,65 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 5月31日
+## <a id="chinese"></a>💡 今日信号 · 6月1日
 
-—
+> **AV1→AV2 迁移成本计算器**：输入当前编码参数和月流量，输出 AV2 压缩收益预估、等待成本和现阶段 AI 压缩替代方案对比卡片。今天行动的理由是 AV2 v1.0 规格刚发布，技术决策者正在主动搜索评估依据，窗口期以小时计。技术栈：Anthropic Messages API 解析规格文
 
+行动判断**：用 Anthropic Messages API 解析 AV2 规格文档、Streamlit 包一个参数计算器，今天两小时内可出 MVP。
 
+<p align="center">
+
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-01.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-01.md)
+
+</p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · May 31
+## <a id="english"></a>💡 Today's signal · Jun 1
 
-—
+> **AV1→AV2 Migration Cost Calculator**: Input your current encoding parameters and monthly traffic volume, get back estimated AV2 compression gains, a 
 
-*(See ZH report below)*
+
+
+<p align="center">
+
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-01.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-01.md)
+
+</p>
 
 ---
 <a id="glance"></a>
 
-## 📋 今日 20 章速览 / Today at a Glance
+## 📋 今日 18 章速览 / Today at a Glance
 
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 自托管AI工作区Odysseus单周积累6816星，"本地优先+极简单元"成今日Show HN主轴 |
-| 2 | 哪些搜索词暴涨 | AI编程助手"uta"7日搜索量暴涨48150%，教程与对比内容SEO窗口正在收窄 |
-| 3 | GitHub 上哪些快速增长的开源项… | Claude多智能体编排ruflo单周+23037星、AI短视频MoneyPrinterTurbo+15379星，均无任何商业化入口 |
-| 4 | 开发者在抱怨哪些工具 | AI生成内容以人名义流通无溯源机制，"谁为AI输出负责"成开发者最高共鸣痛点 |
+| 1 | 有哪些 solo-founder 产… | AI agent 行为审计工具同日涌现，"本地优先+可验证输出"成独立开发者共同押注方向 |
+| 3 | GitHub 上哪些快速增长的开源项… | 9router本周暴涨1.2万星，精确标记企业级LLM统一调度层的商业真空 |
+| 4 | 开发者在抱怨哪些工具 | 开发者核心焦虑转移：AI产生的后果无法溯源，责任链工具完全缺失 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | Copilot宣布从席位制切换按token计费，企业AI支出失控且合同承诺边界单方面移动 |
-| 6 | 增长最快的开发者工具有哪些 | claude-code-harness将Claude Code拆为Plan→Work→Review可检查节点，单周新增1034星 |
-| 7 | HuggingFace 上最热的模型… | MiniCPM-V-4.6可本地运行，财务法务医疗私密文档视觉处理是最近切的未满足场景 |
-| 8 | 最重要的开源 AI 进展是什么 | 8B模型加guardrails后agentic任务成功率从53%跳至99%，控制层而非模型规模是生产瓶颈 |
-| 9 | 最受欢迎的 Show HN 项目在用… | Breathe CLI用纯Shell+afplay零依赖实现呼吸引导，本周Show HN印证"极简依赖优先"共识 |
+| 5 | 有没有大公司关闭或降级了产品 | 本周无重大关停事件，数据不足，不生成机会判断 |
+| 6 | 增长最快的开发者工具有哪些 | Claude Code首现第三个小版本迭代，Anthropic正将其推向生产级持续交付 |
+| 7 | HuggingFace 上最热的模型… | 本地图像编辑与TTS原型已跑通，隐私敏感用户的桌面端打包机会尚未有人拿走 |
+| 8 | 最重要的开源 AI 进展是什么 | 开源AI焦点从模型能力转向上下文控制权与动作审批权 |
+| 9 | 最受欢迎的 Show HN 项目在用… | Claude Code正成为AI agent工具链事实标准，周边生态被创业者快速填满 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | 用户向ChatGPT询问竞品替代时被直接推荐，"AI发现渠道"正成为indie产品意外增长来源 |
-| 11 | 有没有沉寂的老项目突然复活 | ruflo单周新增星数占总星数40%，企业批量上线agent发现裸模型不够用触发老项目复活潮 |
-| 12 | 有没有“XX 已死”或迁移类文章 | HN"Please Do Not Vibe Fuck Up This Software"445分爆发，AI污染基础设施项目引发文化迁移 |
+| 10 | Indie 开发者在讨论哪些收入和定… | 两人团队90天$3500 MRR，核心打法是先用Reddit agent定位用户再转化付费 |
+| 11 | 有没有沉寂的老项目突然复活 | 开发者对MCP等复杂新协议产生疲惫，REST和plain JSON等老方案正在迎来复活窗口 |
+| 12 | 有没有“XX 已死”或迁移类文章 | 微软2026年远程废除Office买断授权，单方面重新定义"永久"的法律含义 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | guardrails首次被公开量化（53%→99%），工程师搜索词从"Claude Code"迁移至具体控制层工具 |
-| 14 | VC 和 YC 正在关注哪些话题 | AI可发现性替代SEO、agent审批门企业买单、微软强制迁移制造切换窗口，三条投资论题同步成立 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | MCP搜索热度从未破圈，当前争议是圈内噪声而非市场信号 |
+| 14 | VC 和 YC 正在关注哪些话题 | AI agent分发渠道正成为护城河，执行管道估值超过模型本身 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | AI幻觉引用丑闻已从"重大事故"变为"没人记得"，溯源审计工具是本周末最值得动手的窄切口 |
-| 16 | 哪些定价和变现模型值得研究 | Copilot转向按token计费触发企业定价恐慌，AI支出可观测与预算控制工具成真实采购需求 |
-| 17 | 最反直觉的发现是什么 | 8B小模型加guardrails可靠性超过70B裸模型，模型路由不是差异化，控制层才是 |
-| 18 | Product Hunt 产品和开发… | PH同日邮件设计Brew与可达性mailX合计1300票，AI生成邮件的信任基础设施成最强重叠区 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | AV2编码速度仅1fps至2028年不可用，AI压缩替代路线的构建窗口现在开启 |
+| 16 | 哪些定价和变现模型值得研究 | LLM压缩领域专家价值，真实护城河转向业务问题理解而非代码能力 |
+| 17 | 最反直觉的发现是什么 | ort周下载量暴跌61%，AI推理讨论热度不减，hype与实际adoption剪刀差撕开 |
+| 18 | Product Hunt 产品和开发… | Product Hunt本周多个团队同时攻克agent上下文持久化，赛道密度骤增 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | 12-factor-agents试图为Agent开发建立工程规范，中文技术社区几乎零覆盖 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | 五个PyPI包连续多周下载量加速却无任何社区讨论，静默规模化采用信号强于有声热点 |
-
-## Recent signals / 近期信号
-
-| Date | Signal |
-|------|--------|
-| [May 31 / 5月31日](zh/2026-05-31.md) |  |
+| 19 | 英文世界在讨论什么，中文还没跟上 | 预测市场遭欧盟首次大规模封禁，合规替代品真空尚无人填补 |
 
 [完整归档 / Full archive →](zh/)
 
@@ -67,8 +73,12 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ## About / 这是什么
 
-CrafterBeat is a daily intelligence briefing for indie developers and tech entrepreneurs. Every morning it cross-references 10+ data sources across 20 chapters — from opportunity discovery and tech stack picks to competitive intel and trend signals — and publishes only data-backed findings with specific numbers, links, and actionable takeaways.
+**Who this is for:** indie hackers, MicroSaaS founders, and tech entrepreneurs who want one high-conviction build direction per day — not another feed to scroll.
 
-CrafterBeat 是给独立开发者和技术创业者的每日情报简报。每天早上交叉验证 10+ 数据源，覆盖 20 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
+**How it works:** every morning, cross-validate 10+ live data sources across 20 chapters — opportunity discovery, tech stack picks, competitive intel, trend signals, and action triggers — publishing only data-backed findings with specific numbers, links, and actionable takeaways.
+
+**面向谁：** 独立开发者和技术创业者。每天一个有数据支撑的构建方向，不是又一个刷不完的信息流。
+
+**怎么做的：** 每天早上交叉验证 10+ 数据源，覆盖 20 个章节（机会发现、技术选型、竞争情报、趋势判断、行动触发），只发布有具体数字、链接和可操作结论的信号。
 
 ⭐ Star this repo to get daily updates · Star 本仓库，在 GitHub 动态里接收每日更新
