@@ -7,66 +7,67 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月3日
+## <a id="chinese"></a>💡 今日信号 · 6月4日
 
 > **今日三则**
 
-行动判断**：agent 界面层的自托管需求今天有真实用户，明天有大厂竞品，窗口以周计。
+行动判断**：做 AI 编码成本的归因仪表盘，接 Anthropic API 日志 + GitHub webhook，给 CTO 看每个 PR 实际花了多少 token。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-03.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-03.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-04.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-04.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 3
+## <a id="english"></a>💡 Today's signal · Jun 4
 
 > **Top 3 Signals**
 
-Action judgment**: The self-hosting demand for agent interface layers has real users today. It has big-company competitors tomorrow. The window is measured in weeks.
+Action judgment**: Build an AI coding cost attribution dashboard. Hook into Anthropic API logs plus GitHub webhooks. Show the CTO exactly how many tokens each PR actually cost.
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-03.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-03.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-04.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-04.md)
 
 </p>
 
 ---
 <a id="glance"></a>
 
-## 📋 今日 19 章速览 / Today at a Glance
+## 📋 今日 20 章速览 / Today at a Glance
 
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | Agent前端界面层出现独立竞品，Paseo主打手机端coding agent交互，卡点已从推理转向执行与界面 |
-| 2 | 哪些搜索词暴涨 | openclaw同时触发agent memory/MCP/self-hosted三个搜索词共振，第三方内容黄金窗口约4-6周 |
-| 3 | GitHub 上哪些快速增长的开源项… | ECC 203K星由学术传播驱动而非企业采购，真实空白在agent进企业后的合规证明与运营管控 |
-| 4 | 开发者在抱怨哪些工具 | Flux.ai深夜发律师函阻止Adafruit发表AI工具评测，AI产品差评已触发法律行为 |
+| 1 | 有哪些 solo-founder 产… | 视频机构内容运营工具同日涌现，脚本协作+上传前合规审查覆盖完整工作流 |
+| 2 | 哪些搜索词暴涨 | 今日搜索全指向NBA季后赛，jose alvarado单日2000+急升领跑榜单 |
+| 3 | GitHub 上哪些快速增长的开源项… | 单文件CLAUDE.md仓库单周+65K星，Claude Code行为约束管理层商业空白暴露 |
+| 4 | 开发者在抱怨哪些工具 | AI工具将隐形成本转移给开发者，"不知道欠了谁什么"成结构性抱怨主线 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | 无平台关停事件，但资深工程师批量"退休"暗示AI协作工作流中代码推理控制权正在失去 |
-| 6 | 增长最快的开发者工具有哪些 | agentmemory本周暴增18650星，agent跨session失忆问题成最热开发痛点，记忆层从工具名升级为品类名 |
-| 7 | HuggingFace 上最热的模型… | 图像编辑模型FireRed走红+1-Bit Bonsai讨论共振，本地图像编辑工作流门槛正在下降 |
-| 8 | 最重要的开源 AI 进展是什么 | codegraph本周新增37K星，为多个coding agent共享预索引知识图谱，agent上下文碎片化触底 |
-| 9 | 最受欢迎的 Show HN 项目在用… | memory-os用Qdrant做7层记忆持久化，Qdrant热度归零反成基础设施成熟度信号 |
+| 5 | 有没有大公司关闭或降级了产品 | 工程师集体拒绝承担AI成本优化义务，云端工具承诺可信度下滑信号明显 |
+| 6 | 增长最快的开发者工具有哪些 | 本周开发者工具核心缺口：agent运行时行为对开发者基本不可见且已成实际风险 |
+| 7 | HuggingFace 上最热的模型… | Gemma 4 12B填补4B/26B空档，消费级设备可本地运行专业垂直场景 |
+| 8 | 最重要的开源 AI 进展是什么 | 开源AI核心张力转向谁控制agent记忆、审批动作、证明生成合规 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 本周Show HN前三主动回避现代技术栈，context管理缺失成coding agent致命弱点 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | 酒店运营工具398用户案例验证：本人是用户→行业验证→最小产品，流量是痛点的副产品 |
-| 11 | 有没有沉寂的老项目突然复活 | markitdown本周复活15K星，LLM输入格式向Markdown收敛驱动文档转换工具升级为AI预处理基础设施 |
-| 12 | 有没有“XX 已死”或迁移类文章 | Meta将Instagram等免费功能打包收费，用户处于疲惫既视感阶段，迁移意愿已现但行为尚未发生 |
+| 10 | Indie 开发者在讨论哪些收入和定… | GitHub Copilot按量计费触发逃离潮，搜索热度满格但用户情绪已转向出走 |
+| 11 | 有没有沉寂的老项目突然复活 | Claude Code扩张触发CLAUDE.md技能文件二次爆发，提示词治理仓库集体复活 |
+| 12 | 有没有“XX 已死”或迁移类文章 | 三独立来源同周指向AI辅助编码调试耗时10倍，vibe-coding工作方式遭集体质疑 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | Cline在Claude Code原生功能更新后4周从峰值95跌至32，skills管理类工具随时面临被原生化消灭风险 |
-| 14 | VC 和 YC 正在关注哪些话题 | PH买家已不为生成内容付钱而为完成动作付钱，但人类review环节是执行层agent真正未解决的断裂点 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | Anthropic SDK周下载量达2487万次，Claude已从实验层进入工程师生产调用层 |
+| 14 | VC 和 YC 正在关注哪些话题 | Agent记忆可信度危机催生新品类，来源溯源而非存储检索成投资关注核心 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 会议AI品类三款产品同日冲榜验证需求，但评论区无人能答差异化，分化机会在执行缺口而非录音转录 |
-| 16 | 哪些定价和变现模型值得研究 | 会议与协作工具普遍卖流程改善，价值难在首月账单量化，续费率压力成共同定价困境 |
-| 17 | 最反直觉的发现是什么 | 被媒体标为"CEO AI幻觉"的预测部分在18个月内成真，公众感知与技术能力判断之间存在可产品化的巨大时差 |
-| 18 | Product Hunt 产品和开发… | Mac本地AI补全工具Typeahead用Gemma跑Metal推理，开源生态无对应竞品，护城河来自产品打磨非技术壁垒 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 缺一个将基准测试结论与团队实际AI支出对接的cost-per-PR可视化面板 |
+| 16 | 哪些定价和变现模型值得研究 | AI token成本支付归属争议爆发，工程师与公司之间的费用责任边界尚未厘清 |
+| 17 | 最反直觉的发现是什么 | 更强模型让编码速度反而变慢，AI辅助代码质量仪表盘成CTO未满足需求 |
+| 18 | Product Hunt 产品和开发… | PH开发者工具四细分方向同日登榜，AI降噪监控superlog以356票显示最强付费意愿 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | MoneyPrinterTurbo本周新增21K星且处于热度峰值第0周，中文媒体尚未感知，一键短视频生成工具信息差窗口开启 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | YouTube强制AI视频标注的商业影响分析中文尚缺，国内AIGC出海团队有1周信息窗口 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | Deno npm包搜索热度腰斩却下载量悄升，跨运行时兼容性调试工具空白待填 |
 
 [完整归档 / Full archive →](zh/)
 
