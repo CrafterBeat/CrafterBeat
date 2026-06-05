@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月4日
+## <a id="chinese"></a>💡 今日信号 · 6月5日
 
 > **今日三则**
 
-行动判断**：做 AI 编码成本的归因仪表盘，接 Anthropic API 日志 + GitHub webhook，给 CTO 看每个 PR 实际花了多少 token。
+行动判断**：做 agent 操作的审计日志层，不是代码理解工具。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-04.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-04.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-05.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-05.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 4
+## <a id="english"></a>💡 Today's signal · Jun 5
 
 > **Top 3 Signals**
 
-Action judgment**: Build an AI coding cost attribution dashboard. Hook into Anthropic API logs plus GitHub webhooks. Show the CTO exactly how many tokens each PR actually cost.
+Action judgment**: Build the audit log layer for agent operations. Not another code comprehension tool.
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-04.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-04.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-05.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-05.md)
 
 </p>
 
@@ -43,31 +43,31 @@ Action judgment**: Build an AI coding cost attribution dashboard. Hook into Anth
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 视频机构内容运营工具同日涌现，脚本协作+上传前合规审查覆盖完整工作流 |
-| 2 | 哪些搜索词暴涨 | 今日搜索全指向NBA季后赛，jose alvarado单日2000+急升领跑榜单 |
-| 3 | GitHub 上哪些快速增长的开源项… | 单文件CLAUDE.md仓库单周+65K星，Claude Code行为约束管理层商业空白暴露 |
-| 4 | 开发者在抱怨哪些工具 | AI工具将隐形成本转移给开发者，"不知道欠了谁什么"成结构性抱怨主线 |
+| 1 | 有哪些 solo-founder 产… | Spotify锁死API后，跨平台元数据替代工具验证"平台收窄→工具空隙→低成本替代"结构性机会 |
+| 2 | 哪些搜索词暴涨 | "stop slop skill claude"暴涨27200%，Claude用户从输出内容转向主动管控输出质量 |
+| 3 | GitHub 上哪些快速增长的开源项… | 代码库可视化工具单周新增星数等于历史总量，AI agent审计层商业基础设施几乎为零 |
+| 4 | 开发者在抱怨哪些工具 | Meta支持AI被用于劫持账号，暴露AI工具权限边界与判断能力之间的隐式信任漏洞 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | 工程师集体拒绝承担AI成本优化义务，云端工具承诺可信度下滑信号明显 |
-| 6 | 增长最快的开发者工具有哪些 | 本周开发者工具核心缺口：agent运行时行为对开发者基本不可见且已成实际风险 |
-| 7 | HuggingFace 上最热的模型… | Gemma 4 12B填补4B/26B空档，消费级设备可本地运行专业垂直场景 |
-| 8 | 最重要的开源 AI 进展是什么 | 开源AI核心张力转向谁控制agent记忆、审批动作、证明生成合规 |
-| 9 | 最受欢迎的 Show HN 项目在用… | 本周Show HN前三主动回避现代技术栈，context管理缺失成coding agent致命弱点 |
+| 5 | 有没有大公司关闭或降级了产品 | 供应商不关停但持续限制用户控制权，APC闭源固件触发开源替代浪潮 |
+| 6 | 增长最快的开发者工具有哪些 | 终端AI coding agent单周爆发，CodeWhale新增34k星，"agent改了什么"成核心竞争点 |
+| 7 | HuggingFace 上最热的模型… | Gemma 4 12B encoder-free多模态双榜冲顶，图文直接喂入单模型无需独立视觉塔 |
+| 8 | 最重要的开源 AI 进展是什么 | coding agent沙箱分裂为本地隔离与云端托管两路，防御性定位是共同未解问题 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 本周Show HN技术栈出现两个反共识方向性偏离 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | GitHub Copilot按量计费触发逃离潮，搜索热度满格但用户情绪已转向出走 |
-| 11 | 有没有沉寂的老项目突然复活 | Claude Code扩张触发CLAUDE.md技能文件二次爆发，提示词治理仓库集体复活 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 三独立来源同周指向AI辅助编码调试耗时10倍，vibe-coding工作方式遭集体质疑 |
+| 10 | Indie 开发者在讨论哪些收入和定… | 情绪型产品桌面猫首日$150，理性工具阅读App全年$1000，情绪钩子变现速度碾压功能价值 |
+| 11 | 有没有沉寂的老项目突然复活 | Elixir v1.20零破坏性升级获963分，渐进类型系统让生产团队免费获得更强静态保证 |
+| 12 | 有没有“XX 已死”或迁移类文章 | vllm与llama-index同周双降超10%，自建推理+编排装机潮已过顶，托管API正在吞噬自建工作负载 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | Anthropic SDK周下载量达2487万次，Claude已从实验层进入工程师生产调用层 |
-| 14 | VC 和 YC 正在关注哪些话题 | Agent记忆可信度危机催生新品类，来源溯源而非存储检索成投资关注核心 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | Anthropic SDK搜索量单周跌86%，crewai/autogen下载双降，上轮LLM基础设施铺设期正式结束 |
+| 14 | VC 和 YC 正在关注哪些话题 | Kilo Code v7以904票领先400票，并行agent+多模型对比成编码工具新标准 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 缺一个将基准测试结论与团队实际AI支出对接的cost-per-PR可视化面板 |
-| 16 | 哪些定价和变现模型值得研究 | AI token成本支付归属争议爆发，工程师与公司之间的费用责任边界尚未厘清 |
-| 17 | 最反直觉的发现是什么 | 更强模型让编码速度反而变慢，AI辅助代码质量仪表盘成CTO未满足需求 |
-| 18 | Product Hunt 产品和开发… | PH开发者工具四细分方向同日登榜，AI降噪监控superlog以356票显示最强付费意愿 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | $1500让LLM黑自己的漏洞App，GPT能找到漏洞但Anthropic因护栏失效，AI安全测试存在真实产品空白 |
+| 16 | 哪些定价和变现模型值得研究 | 同一开发者情绪型产品单日$150对比理性工具年收$1000，情绪钩子决定定价策略选择 |
+| 17 | 最反直觉的发现是什么 | vLLM和Together SDK同周大跌，开发者不是用更少AI而是迁回Anthropic/OpenAI原生接口 |
+| 18 | Product Hunt 产品和开发… | AI工具让初学者绕过基础技能，但帮助中间层用户保留可验证技能图谱的产品在PH和GitHub均为空白 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | YouTube强制AI视频标注的商业影响分析中文尚缺，国内AIGC出海团队有1周信息窗口 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | Deno npm包搜索热度腰斩却下载量悄升，跨运行时兼容性调试工具空白待填 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | "域外知识是真正护城河"英文社区1689分热议，中文覆盖近零，B2B防御性AI产品逻辑尚未被引进 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | 企业团队同步转向Claude API+Rust原生栈，合规审计驱动替换Python/TypeScript工具链 |
 
 [完整归档 / Full archive →](zh/)
 
