@@ -7,22 +7,22 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月7日
+## <a id="chinese"></a>💡 今日信号 · 6月8日
 
 > **今日三则**
 
-行动判断**：在 CI 层插入 AI 贡献归因层，今天做比下个季度更值钱。
+
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-07.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-07.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-08.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-08.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 7
+## <a id="english"></a>💡 Today's signal · Jun 8
 
 > **Top 3 Signals**
 
@@ -30,43 +30,44 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-07.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-07.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-08.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-08.md)
 
 </p>
 
 ---
 <a id="glance"></a>
 
-## 📋 今日 19 章速览 / Today at a Glance
+## 📋 今日 20 章速览 / Today at a Glance
 
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 工作流碎片化催生整合产品，多工具合一成本周Indie发布核心卖点 |
-| 2 | 哪些搜索词暴涨 | 开发者工具搜索量集体爆发，Affinity Designer单周涨幅达12700% |
-| 3 | GitHub 上哪些快速增长的开源项… | supermemory本周+2992星且无定价，AI记忆层最大商业化空白项目 |
-| 4 | 开发者在抱怨哪些工具 | Ladybird封闭PR揭示核心危机：AI代码让补丁质量与投入之间的信任代理失效 |
+| 1 | 有哪些 solo-founder 产… | 联邦承包商网站合规漏洞数据（97.5%缺安全头）正被打包成可销售外呼线索池 |
+| 2 | 哪些搜索词暴涨 | "免费替代Mailchimp/Adobe/SurveyMonkey"三词同期暴涨，SMB迁移行为窗口已开启 |
+| 3 | GitHub 上哪些快速增长的开源项… | turbovec（Rust高性能向量索引）多源信号交叉验证，无商业化动作，品类竞品空白 |
+| 4 | 开发者在抱怨哪些工具 | Meta账号劫持与VSCode Token漏洞同周爆发，工具默认行为激进而安全边界失守 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | S&P 500拒绝SpaceX敲响警报：产品存续不等于平台承诺持续兑现 |
-| 6 | 增长最快的开发者工具有哪些 | Agent记忆、反爬浏览器、性能优化三项目同周爆发，agent行为可见性成核心焦虑 |
-| 7 | HuggingFace 上最热的模型… | JetBrains自训MoE代码模型上线，IDE厂商自控推理链令第三方AI插件上游收窄 |
-| 8 | 最重要的开源 AI 进展是什么 | 记忆层、路由安全、本地语音控制四项目同周爆发，agent运行边界控制权争夺加剧 |
-| 9 | 最受欢迎的 Show HN 项目在用… | 本周Show HN明星项目用Lean4做形式化验证，Claude Opus 4.8一次性生成通过验证代码 |
+| 5 | 有没有大公司关闭或降级了产品 | 无正式关停，但.docx/.pptx格式可靠性被重新审视，agent处理Office文件持续失败 |
+| 6 | 增长最快的开发者工具有哪些 | Understand-Anything单周新增4.1万星，代码理解成独立需求而非AI写代码附属功能 |
+| 7 | HuggingFace 上最热的模型… | Gemma-4-12B在12GB VRAM跑出120tok/s，本机实时多模态推理隐私边界自动成立 |
+| 8 | 最重要的开源 AI 进展是什么 | 开源AI核心矛盾转向"谁控制数据与review权"，领域业务逻辑仍是LLM高频失败点 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 本周最高分ShowHN用LLM做苏格拉底问答而非代替学习，直指AI工具代码债务缺口 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | 本周定价信号：收入验证须先于广告支出，虚假社会证明是最高频反面案例 |
-| 11 | 有没有沉寂的老项目突然复活 | compound-engineering-plugin复活，跨Claude/Codex/Cursor统一扩展层需求驱动多agent协作 |
-| 12 | 有没有“XX 已死”或迁移类文章 | GrapheneOS用户因使用隐私系统被举报，平台不可信焦虑推动用户主动建退路 |
+| 10 | Indie 开发者在讨论哪些收入和定… | Uber为每位工程师设$1500/月AI工具上限，$18000/年/席位成企业级定价新锚点 |
+| 11 | 有没有沉寂的老项目突然复活 | hermes-agent近19万星老项目复活，agent从演示期进入工程期驱动框架需求回归 |
+| 12 | 有没有“XX 已死”或迁移类文章 | 资深工程师亲历岗位定义被抹平，招聘JD"领域"两字消失是专业溢价收窄的具体信号 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | GGUF进入操作工具词阶段，knowledge graph单周降温67%，agent记忆层词汇收敛 |
-| 14 | VC 和 YC 正在关注哪些话题 | Shopify AI接口重写第三方工具边界，缺"人在回路"审批层是最近的有预算缺口 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | GGUF连续正偏+35%，工程师跳过官方发布页直搜本地量化包成稳定行为模式 |
+| 14 | VC 和 YC 正在关注哪些话题 | Job Postings API实时历史数据可追踪公司反复发同类岗位，AI替代速度已可量化监测 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | Conventional Commits评论区揭示痛点：issue编号缺失是30年版本控制用户最高频抱怨 |
-| 16 | 哪些定价和变现模型值得研究 | Gov.uk切换支付商印证数据主权定价崛起，AI工具正从功能订阅向工作流托管迁移 |
-| 17 | 最反直觉的发现是什么 | S&P 500拒绝SpaceX后HN评论区一面倒鼓掌，制度摩擦被视为AI公司隐性护城河 |
-| 18 | Product Hunt 产品和开发… | PH与GitHub数据三线共指"本地优先+隐私感知开发者自动化"，Shopify原生扩展60天内可能封堵切口 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 业务特定逻辑是LLM高频失败点，两小时可验证：针对垂直场景构建领域知识辅助层 |
+| 16 | 哪些定价和变现模型值得研究 | $35K MRR以不足$900K成交约25倍月收入，订阅SaaS估值锚点正在被压缩 |
+| 17 | 最反直觉的发现是什么 | LLM先侵蚀领域专家岗而非初级岗，JD里"领域"消失但复杂私有逻辑仍令其失败 |
+| 18 | Product Hunt 产品和开发… | PH与GitHub交叉密度集中在本地优先AI工具层与LLM时代开发者身份焦虑两条赛道 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | 英文社区高分讨论AI benchmark可信度危机，中文媒体几乎完全缺席该议题 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | Anthropic金融服务示例仓库单周新增2万星，中文技术圈覆盖相似度仅0.40基本缺席 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | litellm周下载1.557亿次增长+14.7%，无任何讨论但已深埋万条AI流水线依赖链 |
 
 [完整归档 / Full archive →](zh/)
 
