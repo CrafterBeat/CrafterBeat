@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月9日
+## <a id="chinese"></a>💡 今日信号 · 6月10日
 
-> **NoDefaultKeys** — 一个 macOS 菜单栏应用，让用户通过 GUI 可视化地管理媒体键和系统键的行为映射。核心技术栈：Swift + `IOKit` 的 `hidutil` API + Music Decoy 已验证的底层逻辑。200 行代码，今天画一个三选项界面：(1) 拦截
+> **VibeCheck**——一个反向测试 Claude Fable 5 是否在偷偷降级你当前任务的开源 CLI 工具。`pip install vibecheck`，用一组标准化难度递增的代码/推理任务对比 Fable 5 输出与已知基准的 token-level 差异。技术栈：Anthropic
 
-行动判断：用 Swift 打包 Music Decoy 的逻辑，做成带 GUI 的 macOS 菜单栏应用，让用户可视化地声明“这个键永远不该打开 Apple Music”，定价 $4.99，今天贴到评论区。**
+
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-09.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-09.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-10.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-10.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 9
+## <a id="english"></a>💡 Today's signal · Jun 10
 
-> **NoDefaultKeys** — a macOS menu bar app that lets users visually manage media key and system key behavior mappings through a GUI. Core stack: Swift +
+> **VibeCheck**—an open-source CLI tool that reverse-tests whether Claude Fable 5 is silently nerfing your current task. `pip install vibecheck`, it dri
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-09.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-09.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-10.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-10.md)
 
 </p>
 
@@ -43,31 +43,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 精窄工具比AI平台更好卖，微切口产品出现真实付费信号 |
-| 2 | 哪些搜索词暴涨 | 生产环境缺的不是模型，是把AI焊进管线的工程能力 |
-| 3 | GitHub 上哪些快速增长的开源项… | 代理基础设施开源爆发，但可观测性与长期自主性缺失严重 |
-| 4 | 开发者在抱怨哪些工具 | AI代码调试成本催生新工具品类，macOS缺默认应用管理 |
+| 1 | 有哪些 solo-founder 产… | 发布即孤岛，创始人自建增长轨道避免被噪音淹没 |
+| 2 | 哪些搜索词暴涨 | Vibe coding面试准备暴涨，AI工作流撞上企业合规门 |
+| 3 | GitHub 上哪些快速增长的开源项… | Anthropic官方可能商业化，开源插件毫无竞争壁垒 |
+| 4 | 开发者在抱怨哪些工具 | 模型静默干预叠加无声计费，开发者信任边界破裂 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | Cloudflare收购VoidZero，社区担忧Vite治理中立性丧失 |
-| 6 | 增长最快的开发者工具有哪些 | AI一次性完成多边形交集形式化验证，关键边界案例突破 |
-| 7 | HuggingFace 上最热的模型… | 小参数本地TTS让语音成为文件加工步骤，不再是玩具 |
-| 8 | 最重要的开源 AI 进展是什么 | AI控制权迁移快于信任框架，催生人类批准审查工具需求 |
-| 9 | 最受欢迎的 Show HN 项目在用… | Claude Code技能API窗口期产品面临官方替代风险 |
+| 5 | 有没有大公司关闭或降级了产品 | Meta AI聊天机器人被滥用，致数千Instagram账户被黑 |
+| 6 | 增长最快的开发者工具有哪些 | agmsg打破多AI代理间手动数据传输的人肉剪贴板困境 |
+| 7 | HuggingFace 上最热的模型… | 多模态模型能力飙升，但消费者端一键处理产品严重缺位 |
+| 8 | 最重要的开源 AI 进展是什么 | 开源AI重心转向代码合并审查与安全运营控制面 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 浏览器端重型计算崛起，物理模拟追精确弃炫技 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | AI压缩验证循环，提价后客户减半但收入持平 |
-| 11 | 有没有沉寂的老项目突然复活 | Claude Code技能配置项目复活，好奇心丧失触发存量部署 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 用户从失去信任的AI优化产品集体撤退，寻找对抗工具 |
+| 10 | Indie 开发者在讨论哪些收入和定… | 月入400美元反致痛苦，成本结构重于收入规模 |
+| 11 | 有没有沉寂的老项目突然复活 | LLM让高维护成本的结构化知识库首次跑通经济账 |
+| 12 | 有没有“XX 已死”或迁移类文章 | Claude静默降级触发信任迁移，Figma地位被AI挑战 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | 本地TTS+超高速模型让Agent全程本地运行，平台替代风险逼近 |
-| 14 | VC 和 YC 正在关注哪些话题 | AI从回答问题进化到操作物理设备，Agent环境需求明确 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | Claude Fable 5构成恐惧链，跨模型依赖暴露脆弱性 |
+| 14 | VC 和 YC 正在关注哪些话题 | VC押注AI工具链最后一公里，代理间通信成新机会 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 用户甘愿配命令对抗糟糕默认体验，小工具机会涌现 |
-| 16 | 哪些定价和变现模型值得研究 | AI构建零成本但维护昂贵，免费开源面临复制变现难题 |
-| 17 | 最反直觉的发现是什么 | Token生成速度≠生产力，组织采纳才是瓶颈，实际采用反跌 |
-| 18 | Product Hunt 产品和开发… | 浏览器成为新API，开发者设法自动化以脱离手动操作 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 两小时构建静默降级检测工具，抢夺HN分发窗口 |
+| 16 | 哪些定价和变现模型值得研究 | AI定价转向能力分层消费，限免后降级制造升级压力 |
+| 17 | 最反直觉的发现是什么 | 讨论热度不等于采用，模型静默降级污染评估链路 |
+| 18 | Product Hunt 产品和开发… | AI编码代理普及，但代理协调与输出差异化缺口巨大 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | AI过度优化促使用户逃离平台回归文本，创业切口待挖掘 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | Anthropic SDK下载激增且无讨论，已成静默基础设施依赖 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | 英文世界并行追求AI加速与手工控制感，交集尚浅 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | ripgrep成AI代理关键依赖，可构建代码搜索服务 |
 
 [完整归档 / Full archive →](zh/)
 
