@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月8日
+## <a id="chinese"></a>💡 今日信号 · 6月9日
 
-> **今日三则**
+> **NoDefaultKeys** — 一个 macOS 菜单栏应用，让用户通过 GUI 可视化地管理媒体键和系统键的行为映射。核心技术栈：Swift + `IOKit` 的 `hidutil` API + Music Decoy 已验证的底层逻辑。200 行代码，今天画一个三选项界面：(1) 拦截
 
-
+行动判断：用 Swift 打包 Music Decoy 的逻辑，做成带 GUI 的 macOS 菜单栏应用，让用户可视化地声明“这个键永远不该打开 Apple Music”，定价 $4.99，今天贴到评论区。**
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-08.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-08.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-09.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-09.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 8
+## <a id="english"></a>💡 Today's signal · Jun 9
 
-> **Top 3 Signals**
+> **NoDefaultKeys** — a macOS menu bar app that lets users visually manage media key and system key behavior mappings through a GUI. Core stack: Swift +
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-08.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-08.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-09.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-09.md)
 
 </p>
 
@@ -43,31 +43,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 联邦承包商网站合规漏洞数据（97.5%缺安全头）正被打包成可销售外呼线索池 |
-| 2 | 哪些搜索词暴涨 | "免费替代Mailchimp/Adobe/SurveyMonkey"三词同期暴涨，SMB迁移行为窗口已开启 |
-| 3 | GitHub 上哪些快速增长的开源项… | turbovec（Rust高性能向量索引）多源信号交叉验证，无商业化动作，品类竞品空白 |
-| 4 | 开发者在抱怨哪些工具 | Meta账号劫持与VSCode Token漏洞同周爆发，工具默认行为激进而安全边界失守 |
+| 1 | 有哪些 solo-founder 产… | 精窄工具比AI平台更好卖，微切口产品出现真实付费信号 |
+| 2 | 哪些搜索词暴涨 | 生产环境缺的不是模型，是把AI焊进管线的工程能力 |
+| 3 | GitHub 上哪些快速增长的开源项… | 代理基础设施开源爆发，但可观测性与长期自主性缺失严重 |
+| 4 | 开发者在抱怨哪些工具 | AI代码调试成本催生新工具品类，macOS缺默认应用管理 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | 无正式关停，但.docx/.pptx格式可靠性被重新审视，agent处理Office文件持续失败 |
-| 6 | 增长最快的开发者工具有哪些 | Understand-Anything单周新增4.1万星，代码理解成独立需求而非AI写代码附属功能 |
-| 7 | HuggingFace 上最热的模型… | Gemma-4-12B在12GB VRAM跑出120tok/s，本机实时多模态推理隐私边界自动成立 |
-| 8 | 最重要的开源 AI 进展是什么 | 开源AI核心矛盾转向"谁控制数据与review权"，领域业务逻辑仍是LLM高频失败点 |
-| 9 | 最受欢迎的 Show HN 项目在用… | 本周最高分ShowHN用LLM做苏格拉底问答而非代替学习，直指AI工具代码债务缺口 |
+| 5 | 有没有大公司关闭或降级了产品 | Cloudflare收购VoidZero，社区担忧Vite治理中立性丧失 |
+| 6 | 增长最快的开发者工具有哪些 | AI一次性完成多边形交集形式化验证，关键边界案例突破 |
+| 7 | HuggingFace 上最热的模型… | 小参数本地TTS让语音成为文件加工步骤，不再是玩具 |
+| 8 | 最重要的开源 AI 进展是什么 | AI控制权迁移快于信任框架，催生人类批准审查工具需求 |
+| 9 | 最受欢迎的 Show HN 项目在用… | Claude Code技能API窗口期产品面临官方替代风险 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | Uber为每位工程师设$1500/月AI工具上限，$18000/年/席位成企业级定价新锚点 |
-| 11 | 有没有沉寂的老项目突然复活 | hermes-agent近19万星老项目复活，agent从演示期进入工程期驱动框架需求回归 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 资深工程师亲历岗位定义被抹平，招聘JD"领域"两字消失是专业溢价收窄的具体信号 |
+| 10 | Indie 开发者在讨论哪些收入和定… | AI压缩验证循环，提价后客户减半但收入持平 |
+| 11 | 有没有沉寂的老项目突然复活 | Claude Code技能配置项目复活，好奇心丧失触发存量部署 |
+| 12 | 有没有“XX 已死”或迁移类文章 | 用户从失去信任的AI优化产品集体撤退，寻找对抗工具 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | GGUF连续正偏+35%，工程师跳过官方发布页直搜本地量化包成稳定行为模式 |
-| 14 | VC 和 YC 正在关注哪些话题 | Job Postings API实时历史数据可追踪公司反复发同类岗位，AI替代速度已可量化监测 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | 本地TTS+超高速模型让Agent全程本地运行，平台替代风险逼近 |
+| 14 | VC 和 YC 正在关注哪些话题 | AI从回答问题进化到操作物理设备，Agent环境需求明确 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 业务特定逻辑是LLM高频失败点，两小时可验证：针对垂直场景构建领域知识辅助层 |
-| 16 | 哪些定价和变现模型值得研究 | $35K MRR以不足$900K成交约25倍月收入，订阅SaaS估值锚点正在被压缩 |
-| 17 | 最反直觉的发现是什么 | LLM先侵蚀领域专家岗而非初级岗，JD里"领域"消失但复杂私有逻辑仍令其失败 |
-| 18 | Product Hunt 产品和开发… | PH与GitHub交叉密度集中在本地优先AI工具层与LLM时代开发者身份焦虑两条赛道 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 用户甘愿配命令对抗糟糕默认体验，小工具机会涌现 |
+| 16 | 哪些定价和变现模型值得研究 | AI构建零成本但维护昂贵，免费开源面临复制变现难题 |
+| 17 | 最反直觉的发现是什么 | Token生成速度≠生产力，组织采纳才是瓶颈，实际采用反跌 |
+| 18 | Product Hunt 产品和开发… | 浏览器成为新API，开发者设法自动化以脱离手动操作 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | Anthropic金融服务示例仓库单周新增2万星，中文技术圈覆盖相似度仅0.40基本缺席 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | litellm周下载1.557亿次增长+14.7%，无任何讨论但已深埋万条AI流水线依赖链 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | AI过度优化促使用户逃离平台回归文本，创业切口待挖掘 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | Anthropic SDK下载激增且无讨论，已成静默基础设施依赖 |
 
 [完整归档 / Full archive →](zh/)
 
