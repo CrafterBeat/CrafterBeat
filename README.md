@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月12日
+## <a id="chinese"></a>💡 今日信号 · 6月13日
 
-> **PR Shield**：一个针对 GitHub PR 的 AI 生成风险评分工具，用 Anthropic Messages API 判别 PR 是否含低质量 LLM 生成内容和辩护式纠缠，通过 GitHub App 自动评注。技术栈 150 行 FastAPI + Render 免费实例，今天 
+> **Steps.fm** — 一个为 AI 代码代理生成可分享人类努力证明的中间层工具。在 Claude Code 执行任务时，自动截取每一步的截图、抓取 GitHub diff、生成自然语言解释，合成一个公开 Notion 页面或 GitHub Issue。技术栈用 Anthropic Messa
 
-
+行动判断：现在做一套能附着在 Claude Code API 上的自动工作证据整理层，把每一步 tool_use 变成带截图+diff+自然语言解释的公开页面——不是让 AI 更强，是让用 AI 的人可信任。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-12.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-12.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-13.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-13.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 12
+## <a id="english"></a>💡 Today's signal · Jun 13
 
-> **PR Shield**: an AI-generation risk-scoring tool for GitHub PRs. It uses the Anthropic Messages API to detect whether a PR contains low-quality LLM-g
+> 
 
-
+My action judgment: build now a layer that attaches to the Claude Code API—an automatic work-evidence compiler that turns every `tool_use` step into a public page with screenshots, diffs, and natural-
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-12.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-12.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-13.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-13.md)
 
 </p>
 
@@ -43,31 +43,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 独立开发者以微小真实收入验证产品，ShipNext等瞄准AI应用商业化基础设施 |
-| 2 | 哪些搜索词暴涨 | 寻找Semrush/n8n免费替代搜索激增，赚钱者逃离高价工具 |
-| 3 | GitHub 上哪些快速增长的开源项… | 技能型代理走向生产但治理空白，学术研究技能仓库周增2.4万星 |
-| 4 | 开发者在抱怨哪些工具 | 开发者揭露Anthropic暗中限制模型能力，API黑箱化引发信任危机 |
+| 1 | 有哪些 solo-founder 产… | 独立开发者建造产品易经营难，经营动作产品化成新机会 |
+| 2 | 哪些搜索词暴涨 | AI代理支付风控和本地部署最低门槛成搜索热点 |
+| 3 | GitHub 上哪些快速增长的开源项… | 开源agent记忆层缺审计，需工作记录中间件生成合规报告 |
+| 4 | 开发者在抱怨哪些工具 | 开发者需要审计AI模型响应质量并接收降级告警 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | macOS用户无法阻止Apple Music自动启动，系统控制权缺失 |
-| 6 | 增长最快的开发者工具有哪些 | AI代理工程技能包爆发，agent-skills等提供生产级脚本填补最佳实践空白 |
-| 7 | HuggingFace 上最热的模型… | 扩散文本生成模型diffusiongemma速度达传统4倍，NVIDIA免费API上线 |
-| 8 | 最重要的开源 AI 进展是什么 | Nex-N2与Gemma4系列开放权重模型发布，但缺少量化基准和复现报告 |
-| 9 | 最受欢迎的 Show HN 项目在用… | 自托管仪表板项目成Show HN热门，Homepage和Navidrome客户端受追捧 |
+| 5 | 有没有大公司关闭或降级了产品 | FCC拟强制存手机用户身份，德判谷歌对AI摘要负法律责任 |
+| 6 | 增长最快的开发者工具有哪些 | 3code等低成本编码代理和本地优先CLI增长迅速 |
+| 7 | HuggingFace 上最热的模型… | Kimi-K2.7-Code社区热议但实际下载未累积 |
+| 8 | 最重要的开源 AI 进展是什么 | 开源AI进展集中在开放权重模型和测试时扩展 |
+| 9 | 最受欢迎的 Show HN 项目在用… | Show HN热门项目采用Rust/TS/Go构建AI配套工具 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | indie开发者收入叙事信任危机，质疑MRR晒图催生营收验证仪表板需求 |
-| 11 | 有没有沉寂的老项目突然复活 | Homebrew 6.0新增tap信任与沙箱，应对AI代理自动安装的安全焦虑 |
-| 12 | 有没有“XX 已死”或迁移类文章 | npm v12破坏性变更与Homebrew 6.0信任机制，包管理器安全成架构选择 |
+| 10 | Indie 开发者在讨论哪些收入和定… | 收入讨论从0到稳定，需破解免费转化难题 |
+| 11 | 有没有沉寂的老项目突然复活 | AI内容泛滥引发信任危机，沉寂老项目集体复活 |
+| 12 | 有没有“XX 已死”或迁移类文章 | Chrome弃用MV2致用户迁移，AI代理失控破产事件 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | 开发者放弃模型自制量化，直接搜索GGUF文件，本地推理搭建层收缩 |
-| 14 | VC 和 YC 正在关注哪些话题 | 277名工程师讨论企业工作表演性，技术翻译商业价值的AI代理需求浮现 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | 开发者转向对AI代理设限，强调压缩与审计 |
+| 14 | VC 和 YC 正在关注哪些话题 | VC关注AI代理失控成本变成合规风险 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 为开源维护者做AI代理贡献检测枪，填补代理贡献误判导致的维护负担 |
-| 16 | 哪些定价和变现模型值得研究 | 按用量付费变默认，AI网关和代码审查计费单位下沉至每次调用/session |
-| 17 | 最反直觉的发现是什么 | AI替代焦虑最高点恰逢openai等核心工具下载量暴跌，回归理性 |
-| 18 | Product Hunt 产品和开发… | AI代理侵入底层工具链引发警惕，社区要求对包管理和提交设置信任边界 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 应构建让AI输出展现人类努力证据的系统 |
+| 16 | 哪些定价和变现模型值得研究 | 代码成本趋零，开发者排斥固定月费，按量计费迎需求 |
+| 17 | 最反直觉的发现是什么 | 同事滥用AI内容致团队信任崩塌与替代焦虑 |
+| 18 | Product Hunt 产品和开发… | PH产品将AI融入人机体验，不强调AI本身 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | 英文世界因信任危机追求不可变可验证的本地开发环境，中文讨论缺失 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | starship周下载增24.4%却全网沉默，终端美化工具悄然增长原因待查 |
+| 19 | 英文世界在讨论什么，中文还没跟上 | 英文世界讨论AI产出泛滥威胁信任，需展现努力 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | deno和starship下载量暴涨成沉默基础设施 |
 
 [完整归档 / Full archive →](zh/)
 
