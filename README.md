@@ -7,67 +7,66 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月17日
+## <a id="chinese"></a>💡 今日信号 · 6月18日
 
-> **Build: Sovereign Stack Dashboard** — 一个 macOS 菜单栏应用，左侧显示你的 Hetzner/Vultr/Linode 成本实时对比，右侧标注你当前使用的 AI 模型（Claude/Gemini/本地 Qwen3.6）的"主权指数"——该模型是否可能被出口
+> **GLM-5.2 VS 基准模型实时对比仪表板**：用 Python + Streamlit 拉 Z.ai 和 Anthropic 的 API，预设 5 道带身份陷阱的提示，抓首 token 延迟、完整耗时和幻觉标记，红色高亮 429 限速时刻。技术栈是一个 `app.py` 文件完成全部。发布标
 
-大家在看 HN 上那篇 1741 分的文章——[@jjfoooo4 指出](https://tombedor.dev/human-attention-and-human-effort/)索要他人注意力前必须先投入人类判断。但今天真正的行动窗口不在这篇文章本身，而在它和三条看似无关的信号共同指向的同一个矛盾：**开发者正在同时被两股力量拉扯——一边是 Hetzner 涨价 150%（HN 热议中），
+行动判断**：做一个多模型可用率的一键对比看板，把 Z.ai 的 429 错误晒在明处，让选型团队知道"谁今天能稳定跑完 100 次连续调用"，而不是"谁在基准测试上多考了 3 分"。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-17.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-17.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-18.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-18.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 17
+## <a id="english"></a>💡 Today's signal · Jun 18
 
-> 
+> **GLM-5.2 vs benchmark model live comparison dashboard**: Use Python + Streamlit to pull APIs from Z.ai and Anthropic, preset 5 prompts with identity 
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-17.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-17.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-18.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-18.md)
 
 </p>
 
 ---
 <a id="glance"></a>
 
-## 📋 今日 20 章速览 / Today at a Glance
+## 📋 今日 19 章速览 / Today at a Glance
 
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 本地优先离线AI工具受追捧，用户看重隐私而非免费或功能多 |
-| 2 | 哪些搜索词暴涨 | 非专业用户绕过专业软件直出交付物，企业购前搜AI风险 |
-| 3 | GitHub 上哪些快速增长的开源项… | 本周未发现明确的开源项目商业空白新信号 |
-| 4 | 开发者在抱怨哪些工具 | Hetzner涨价、epubcheck渲染盲区、ChatGPT强制等待打断开发流 |
+| 1 | 有哪些 solo-founder 产… | “不信任”成为可打包功能，隐私先行的本地工具潮兴起 |
+| 2 | 哪些搜索词暴涨 | 从 vibe coding 到 agentic engineering 搜索飙升，测试策略增 5000% |
+| 3 | GitHub 上哪些快速增长的开源项… | 今日开源项目商业空白无新增信号 |
+| 4 | 开发者在抱怨哪些工具 | AI 生成代码引入架构违规，审查负担加重 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | 大公司模型供应和基础设施政策变动引发用户依赖中断 |
-| 6 | 增长最快的开发者工具有哪些 | 代理可审计、状态监控和安全扫描成开发者工具增长热点 |
-| 7 | HuggingFace 上最热的模型… | 视觉定位与代码模型热捧，缺少公开评测和稳定性证据 |
-| 8 | 最重要的开源 AI 进展是什么 | 开源模型权重开放与治理争议并存，工具聚焦压缩与安全 |
-| 9 | 最受欢迎的 Show HN 项目在用… | Show HN追求沙箱隔离、离线可用和本地隐私，反对slopware |
+| 5 | 有没有大公司关闭或降级了产品 | Anthropic 前沿模型因出口管制下线，VS Code 扩展延迟更新 |
+| 6 | 增长最快的开发者工具有哪些 | 代码库图谱和内容压缩工具增长最快，token 节省 60% 以上 |
+| 7 | HuggingFace 上最热的模型… | 轻量推理模型 VibeThinker-3B 和视频生成原型成热门 |
+| 8 | 最重要的开源 AI 进展是什么 | GLM-5.2 开源权重获热捧，本地推理堆栈持续进化 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 开发者工具偏向离线隐私，Go 语言 kage 剥离 JS 受关注 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | 基础设施成本上升压力下，低价订阅与高MRR里程碑并存 |
-| 11 | 有没有沉寂的老项目突然复活 | 今日无沉寂项目复活的新信号 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 本周无明确“已死”技术迁移新信号 |
+| 10 | Indie 开发者在讨论哪些收入和定… | Claude 企业 API 成本暴涨至月 1 万美元，本地替代讨论升温 |
+| 11 | 有没有沉寂的老项目突然复活 | ReactOS 实现 3D 加速，Homebrew 6.0.0 发布大版本更新 |
+| 12 | 有没有“XX 已死”或迁移类文章 | Epic Lore 替代 Perforce，Iroh 1.0 用公钥寻址替代 IP |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | 买家转向问：谁控制模型、代理行为可版本化、谁在监控 |
-| 14 | VC 和 YC 正在关注哪些话题 | 资本关注代理失控问责和注意力真实性验证的可运营流程 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | Fable 5 访问暂停推动本地模型热，声明式技能文件系统兴起 |
+| 14 | VC 和 YC 正在关注哪些话题 | VC 关注代理版本控制与本地隐私，GTM 执行工具成热点 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | AI生成内容未经审查转发侵蚀团队信任，催生检测需求 |
-| 16 | 哪些定价和变现模型值得研究 | 一次性买断和广告浪费回收工具展现明确付费转化信号 |
-| 17 | 最反直觉的发现是什么 | 本地模型体验反超云旗舰，云端过度主动性被视为资源浪费 |
-| 18 | Product Hunt 产品和开发… | AI能力被封装成快捷键触发、滑动交互等低摩擦消费应用 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 构建 GLM-5.2 对比仪表板，暴露速率限制与模型缺陷 |
+| 16 | 哪些定价和变现模型值得研究 | 本地离线 AI 工具以订阅制实现首笔收入 1300 美元 |
+| 17 | 最反直觉的发现是什么 | GLM-5.2 性能领先但无法自辩身份，付费 API 3 次即限速 |
+| 18 | Product Hunt 产品和开发… | 后台分支与 GTM 执行工具封装为产品，与开发者工具重叠 |
 | | ** 补充观察** | |
-| 19 | 英文世界在讨论什么，中文还没跟上 | 今日无显著英文讨论而中文未跟上的信息缺口 |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | pnpm暗流增长来自基础设施，deno高斜率或为模板间接带动 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | ollama 和 deno 包在工程链路中悄悄被广泛采用 |
 
 [完整归档 / Full archive →](zh/)
 
