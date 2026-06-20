@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月19日
+## <a id="chinese"></a>💡 今日信号 · 6月20日
 
-> **关键判断**：今天最值得验证的搜索意图是 "context engineering skill claude"——搜索者已经在找具体技能名（fable-mode、fusion-fable），不是泛泛学 Prompt。最小可做物是一个 Claude Code Skill 目录，用 GitHub 上
+> **PreFlight CLI** — 一个两阶段安全审计工具：先用 LLM 识别诱导运行的社工模式，再交叉验证已编码的攻击特征。技术栈：Python + `subprocess` (git) + Anthropic Messages API + `argparse`。免费 CLI 工具，Pro 版
 
-
+行动判断**：把 16,760 星的静态安全技能库变成一个"不运行就不能合并 PR"的 CI 检查——这不是新工具类型，是现有安全知识的新分发渠道。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-19.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-19.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-20.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-20.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 19
+## <a id="english"></a>💡 Today's signal · Jun 20
 
-> **Top 3 Signals**
+> **PreFlight CLI** — a two-stage security audit tool: first, use an LLM to identify social engineering patterns designed to trick you into running some
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-19.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-19.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-20.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-20.md)
 
 </p>
 
@@ -43,30 +43,30 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 独立创作者用整合仪表盘和对话式AI视频编辑解决工作流割裂 |
-| 2 | 哪些搜索词暴涨 | Vibe coding工具链搜索暴涨，开发者寻求Google认证的免费赚钱方案 |
-| 3 | GitHub 上哪些快速增长的开源项… | 多个快速增长的开源项目尚无商业版本，商业空白待填补 |
-| 4 | 开发者在抱怨哪些工具 | 面试代码审查混入后门，AI代理扫描耗尽账户余额 |
+| 1 | 有哪些 solo-founder 产… | 独立开发者放弃做平台，转做平台之间的胶水 |
+| 2 | 哪些搜索词暴涨 | 开发者把AI工具链当正规军技能来管理，而非魔术盒 |
+| 3 | GitHub 上哪些快速增长的开源项… | 开源项目快速增长且无商业版本，存在商业化空白 |
+| 4 | 开发者在抱怨哪些工具 | 6人团队无强制PR审查，经理不懂编码，开发者担全责 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | Anthropic最强模型暂停访问，Curl暂停漏洞报告，Cursor可能被收购 |
-| 6 | 增长最快的开发者工具有哪些 | AI代理全互联网搜索、设计转代码、代理分析工具增长最快 |
-| 7 | HuggingFace 上最热的模型… | North Mini Code代码模型和图生视频原型成高热信号 |
-| 8 | 最重要的开源 AI 进展是什么 | 开放权重模型进展，代理记忆组件充实，本地推理关注升温 |
-| 9 | 最受欢迎的 Show HN 项目在用… | Homebrew 6.0引入沙箱信任机制和JSON API |
+| 5 | 有没有大公司关闭或降级了产品 | macOS容器工具、Curl零日漏洞、Cursor收购不确定性等影响开发者 |
+| 6 | 增长最快的开发者工具有哪些 | API to MCP和agent-skills等工具让AI代理获得生产级技能 |
+| 7 | HuggingFace 上最热的模型… | DeepSeek-V4-Pro下载超300万，diffusiongemma图文模型首现 |
+| 8 | 最重要的开源 AI 进展是什么 | DeepSeek-V4-Pro开放权重，QUEST-35B开源深度研究agent全栈方案 |
+| 9 | 最受欢迎的 Show HN 项目在用… | Show HN项目用TypeScript做UI、Python做AI管道、Go/Rust做轻量效率 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | 本地模型成本压力驱动低价层测试，合规罚款成为付费锚点 |
-| 11 | 有没有沉寂的老项目突然复活 | 老旧基础组件迎来Rust替代和版本续命，复古技术兴趣重现 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 企业限制非默认系统使用，旧假设失效，开发者需重审信任边界 |
+| 10 | Indie 开发者在讨论哪些收入和定… | $5一次性买断对抗订阅疲劳，$15K收购被拒暴露定价认知错配 |
+| 11 | 有没有沉寂的老项目突然复活 | Homebrew 6.0 Rust重写，广告拦截与Siri离线推理再引讨论 |
+| 12 | 有没有“XX 已死”或迁移类文章 | GitHub木马颠覆安全假设，GrapheneOS被汽车应用排斥，信任基础动摇 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | 声明式技能文件和bot-sitting新词反映代理可审计性与人力成本 |
-| 14 | VC 和 YC 正在关注哪些话题 | 创始人重新分配经营精力，代理可审计性成为投资决策门槛 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | 供应链恶意软件降温成日常审计项，bot-sitting新词定义AI监控劳动 |
+| 14 | VC 和 YC 正在关注哪些话题 | 代理审批带宽成新稀缺，谁定义高风险操作成为核心控制权问题 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 周末两小时构建AI输出风格一致性代理，统一品牌声音 |
-| 16 | 哪些定价和变现模型值得研究 | 合规罚款驱动订阅付费，低价买断模式未验证支付意愿 |
-| 17 | 最反直觉的发现是什么 | 开源工具增长却缺商业化基础设施，错失开发者迁移需求 |
-| 18 | Product Hunt 产品和开发… | PH产品将AI代理和实时搜索封装进传统工具新形态 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 开发者需陌生代码仓库预运行安全审计工具，防安装木马 |
+| 16 | 哪些定价和变现模型值得研究 | 日本乡村独立开发者翻译应用$10k MRR，但缺少定价模型细节 |
+| 17 | 最反直觉的发现是什么 | 个体AI工具激增，但团队审查流程和安全策略未同步跟上 |
+| 18 | Product Hunt 产品和开发… | StoreClaw把AI代理权限分级做成可购买的信任层级 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | deno、ripgrep、zoxide在工程链路静默取代旧工具 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | ollama、deno和open-interpreter在AI工具链中悄悄被采用 |
 
 [完整归档 / Full archive →](zh/)
 
