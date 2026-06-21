@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月20日
+## <a id="chinese"></a>💡 今日信号 · 6月21日
 
-> **PreFlight CLI** — 一个两阶段安全审计工具：先用 LLM 识别诱导运行的社工模式，再交叉验证已编码的攻击特征。技术栈：Python + `subprocess` (git) + Anthropic Messages API + `argparse`。免费 CLI 工具，Pro 版
+> **LocalContextLogger** — 一个本地模型上下文日志器，记录每一轮生成所使用的 prompt、模型输出、token 消耗和页面发布时间。技术栈：Ollama 本地调用 + SQLite 日志存储 + Vercel 免费部署 dashboard。为什么今天：ZodiacMatch 
 
-行动判断**：把 16,760 星的静态安全技能库变成一个"不运行就不能合并 PR"的 CI 检查——这不是新工具类型，是现有安全知识的新分发渠道。
+[@vickiboykis 的帖子](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) 拿了 1572 分，大家在看本地模型能不能用。但今天真正的信号藏在另一条线里：**非英语市场的长尾建站正在进入 $1 成本时代，而没人给这些项目做上下文管理基础设施。** Angel Number 用 $1.18 建了 1
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-20.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-20.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-21.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-21.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 20
+## <a id="english"></a>💡 Today's signal · Jun 21
 
-> **PreFlight CLI** — a two-stage security audit tool: first, use an LLM to identify social engineering patterns designed to trick you into running some
+> 
 
-
+[@vickiboykis’s post](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) earned 1,572 points — everyone’s asking whether local models are viable. But today’s real signal runs underg
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-20.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-20.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-21.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-21.md)
 
 </p>
 
@@ -43,30 +43,30 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 独立开发者放弃做平台，转做平台之间的胶水 |
-| 2 | 哪些搜索词暴涨 | 开发者把AI工具链当正规军技能来管理，而非魔术盒 |
-| 3 | GitHub 上哪些快速增长的开源项… | 开源项目快速增长且无商业版本，存在商业化空白 |
-| 4 | 开发者在抱怨哪些工具 | 6人团队无强制PR审查，经理不懂编码，开发者担全责 |
+| 1 | 有哪些 solo-founder 产… | 非英语市场长尾SEO建站成本降至$1，复制模式验证 |
+| 2 | 哪些搜索词暴涨 | UE开发者急需MCP server配置模板打通AI agent集成 |
+| 3 | GitHub 上哪些快速增长的开源项… | 快速增长开源项目普遍缺乏商业版与定价模型 |
+| 4 | 开发者在抱怨哪些工具 | LLM订阅补贴可能终止，开发者担忧API成本突然暴涨 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | macOS容器工具、Curl零日漏洞、Cursor收购不确定性等影响开发者 |
-| 6 | 增长最快的开发者工具有哪些 | API to MCP和agent-skills等工具让AI代理获得生产级技能 |
-| 7 | HuggingFace 上最热的模型… | DeepSeek-V4-Pro下载超300万，diffusiongemma图文模型首现 |
-| 8 | 最重要的开源 AI 进展是什么 | DeepSeek-V4-Pro开放权重，QUEST-35B开源深度研究agent全栈方案 |
-| 9 | 最受欢迎的 Show HN 项目在用… | Show HN项目用TypeScript做UI、Python做AI管道、Go/Rust做轻量效率 |
+| 5 | 有没有大公司关闭或降级了产品 | 大公司限制非标准环境访问：封堵定制ROM、警告火狐 |
+| 6 | 增长最快的开发者工具有哪些 | 隐形浏览器、清晰diff、提交扫描快速增长 |
+| 7 | HuggingFace 上最热的模型… | 视觉定位模型走热，NVIDIA LocateAnything-3B引领 |
+| 8 | 最重要的开源 AI 进展是什么 | 多款开放权重代码模型发布，但缺标准化对比验证 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 知识图谱与自托管工具成Show HN技术热点 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | $5一次性买断对抗订阅疲劳，$15K收购被拒暴露定价认知错配 |
-| 11 | 有没有沉寂的老项目突然复活 | Homebrew 6.0 Rust重写，广告拦截与Siri离线推理再引讨论 |
-| 12 | 有没有“XX 已死”或迁移类文章 | GitHub木马颠覆安全假设，GrapheneOS被汽车应用排斥，信任基础动摇 |
+| 10 | Indie 开发者在讨论哪些收入和定… | 收入极端案例浮现，社区反思高MRR叙事压力 |
+| 11 | 有没有沉寂的老项目突然复活 | Java值类型、Homebrew、Emacs等经典项目集体复兴 |
+| 12 | 有没有“XX 已死”或迁移类文章 | 云服务主动限制访问，推动用户向本地化迁移 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | 供应链恶意软件降温成日常审计项，bot-sitting新词定义AI监控劳动 |
-| 14 | VC 和 YC 正在关注哪些话题 | 代理审批带宽成新稀缺，谁定义高风险操作成为核心控制权问题 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | 新术语映射AI代理工程化、成本控制与监控趋势 |
+| 14 | VC 和 YC 正在关注哪些话题 | 资本紧盯代理执行控制权、可审计性和设计同步成本 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 开发者需陌生代码仓库预运行安全审计工具，防安装木马 |
-| 16 | 哪些定价和变现模型值得研究 | 日本乡村独立开发者翻译应用$10k MRR，但缺少定价模型细节 |
-| 17 | 最反直觉的发现是什么 | 个体AI工具激增，但团队审查流程和安全策略未同步跟上 |
-| 18 | Product Hunt 产品和开发… | StoreClaw把AI代理权限分级做成可购买的信任层级 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | 本地模型已可用，上下文管理与持久化是创业突破口 |
+| 16 | 哪些定价和变现模型值得研究 | 付费验证稀缺，多数定价模式仍处商业化设想阶段 |
+| 17 | 最反直觉的发现是什么 | 开源工具热度高但企业治理与维护者付费模型缺失 |
+| 18 | Product Hunt 产品和开发… | Product Hunt产品通过封装现有能力创造协作新体验 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | ollama、deno和open-interpreter在AI工具链中悄悄被采用 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | deno与open-interpreter悄然成为开发者基础运行组件 |
 
 [完整归档 / Full archive →](zh/)
 
