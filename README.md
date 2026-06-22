@@ -7,66 +7,65 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月21日
+## <a id="chinese"></a>💡 今日信号 · 6月22日
 
-> **LocalContextLogger** — 一个本地模型上下文日志器，记录每一轮生成所使用的 prompt、模型输出、token 消耗和页面发布时间。技术栈：Ollama 本地调用 + SQLite 日志存储 + Vercel 免费部署 dashboard。为什么今天：ZodiacMatch 
+> 
 
-[@vickiboykis 的帖子](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) 拿了 1572 分，大家在看本地模型能不能用。但今天真正的信号藏在另一条线里：**非英语市场的长尾建站正在进入 $1 成本时代，而没人给这些项目做上下文管理基础设施。** Angel Number 用 $1.18 建了 1
+行动判断：今天要做的不是反对身份验证，而是抢在 Persona 成为基础设施之前，建立一个独立的身份验证代理层——验证你是人类，不泄露你是谁。
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-21.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-21.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-22.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-22.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 21
+## <a id="english"></a>💡 Today's signal · Jun 22
 
-> 
+> **Top 3 Signals**
 
-[@vickiboykis’s post](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) earned 1,572 points — everyone’s asking whether local models are viable. But today’s real signal runs underg
+
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-21.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-21.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-22.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-22.md)
 
 </p>
 
 ---
 <a id="glance"></a>
 
-## 📋 今日 19 章速览 / Today at a Glance
+## 📋 今日 18 章速览 / Today at a Glance
 
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 非英语市场长尾SEO建站成本降至$1，复制模式验证 |
-| 2 | 哪些搜索词暴涨 | UE开发者急需MCP server配置模板打通AI agent集成 |
-| 3 | GitHub 上哪些快速增长的开源项… | 快速增长开源项目普遍缺乏商业版与定价模型 |
-| 4 | 开发者在抱怨哪些工具 | LLM订阅补贴可能终止，开发者担忧API成本突然暴涨 |
+| 1 | 有哪些 solo-founder 产… | 无账户即用模式涌现，工具消除注册和配置摩擦 |
+| 2 | 哪些搜索词暴涨 | 开发者搜索 Node.js 替换工具，生产环境加速依赖更新 |
+| 3 | GitHub 上哪些快速增长的开源项… | 开源项目商业空白清单，多个增长项目缺乏商业版本 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | 大公司限制非标准环境访问：封堵定制ROM、警告火狐 |
-| 6 | 增长最快的开发者工具有哪些 | 隐形浏览器、清晰diff、提交扫描快速增长 |
-| 7 | HuggingFace 上最热的模型… | 视觉定位模型走热，NVIDIA LocateAnything-3B引领 |
-| 8 | 最重要的开源 AI 进展是什么 | 多款开放权重代码模型发布，但缺标准化对比验证 |
-| 9 | 最受欢迎的 Show HN 项目在用… | 知识图谱与自托管工具成Show HN技术热点 |
+| 5 | 有没有大公司关闭或降级了产品 | 大公司收紧控制，旗舰模型暂停、浏览器屏蔽、收购改变路线 |
+| 6 | 增长最快的开发者工具有哪些 | 代理托管、记忆层和令牌压缩工具增长，解决持续运行成本 |
+| 7 | HuggingFace 上最热的模型… | 视频生成原型 Omni-Video-Factory 成新热，但无权重验证 |
+| 8 | 最重要的开源 AI 进展是什么 | GLM-5.2 开源权重领先，新注意力机制节省长上下文显存 |
+| 9 | 最受欢迎的 Show HN 项目在用… | 热门项目以本地隐私和可理解性为导向，主用 TypeScript/Python |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | 收入极端案例浮现，社区反思高MRR叙事压力 |
-| 11 | 有没有沉寂的老项目突然复活 | Java值类型、Homebrew、Emacs等经典项目集体复兴 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 云服务主动限制访问，推动用户向本地化迁移 |
+| 10 | Indie 开发者在讨论哪些收入和定… | 支付阻断与高收入阶梯信号显现，支付意愿和GPU成本成焦点 |
+| 11 | 有没有沉寂的老项目突然复活 | Emacs、KDE、Homebrew 等老项目讨论再起，经典工具回归 |
+| 12 | 有没有“XX 已死”或迁移类文章 | 平台禁用隐私 ROM，JDK 新特性颠覆序列化，AI 依赖引退化 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | 新术语映射AI代理工程化、成本控制与监控趋势 |
-| 14 | VC 和 YC 正在关注哪些话题 | 资本紧盯代理执行控制权、可审计性和设计同步成本 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | bot-sitting 命名代理监控劳动，agentic engineering 迁移成热词 |
+| 14 | VC 和 YC 正在关注哪些话题 | 资本关注代理可中断性与恢复流程，审批界面成为新控制点 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 本地模型已可用，上下文管理与持久化是创业突破口 |
-| 16 | 哪些定价和变现模型值得研究 | 付费验证稀缺，多数定价模式仍处商业化设想阶段 |
-| 17 | 最反直觉的发现是什么 | 开源工具热度高但企业治理与维护者付费模型缺失 |
-| 18 | Product Hunt 产品和开发… | Product Hunt产品通过封装现有能力创造协作新体验 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | Claude 强制身份验证引 AI 中立争议，替换方案窗口出现 |
+| 16 | 哪些定价和变现模型值得研究 | 按代理数量计费模式出现，但普遍缺乏付费转化证据 |
+| 17 | 最反直觉的发现是什么 | 预索引代码图谱暴涨但本地可替代，代理托管伴随失控风险 |
+| 18 | Product Hunt 产品和开发… | PH 将后端分支、邮件抓取等封装为产品，底层细节待补 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | deno与open-interpreter悄然成为开发者基础运行组件 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | ollama 和 deno 在 AI 代理与 TypeScript 后端中成基础依赖 |
 
 [完整归档 / Full archive →](zh/)
 
