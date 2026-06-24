@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月23日
+## <a id="chinese"></a>💡 今日信号 · 6月24日
 
-> **今日三则**
+> **[Cotypist](https://www.producthunt.com/products/cotypist)**：Cotypist 把在 Mac 上任何地方用你的声音自动补全文字的工作包装成本地 AI 自动补全工具。
 
-今天 Hacker News 首屏被 Deno Desktop 统治，1023 分的热帖让所有技术创业者看到 TypeScript 直接编译桌面二进制的承诺。但真正的信号不在那条帖子本身，而在评论区裂出的两个精确需求：[@leleat](https://news.ycombinator.com/user?id=leleat) 说“Every app currently bundles its ow
+
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-23.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-23.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-24.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-24.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 23
+## <a id="english"></a>💡 Today's signal · Jun 24
 
-> **Top 3 Signals**
+> **[Cotypist](https://www.producthunt.com/products/cotypist)**: Cotypist packages the task of using your voice to autocomplete text anywhere on a Mac i
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-23.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-23.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-24.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-24.md)
 
 </p>
 
@@ -43,30 +43,30 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | AI代理工具栈开始分层，但每一层都还在解决创始人的切肤之痛。 |
-| 2 | 哪些搜索词暴涨 | readywhen搜索指数22，标志Agent从代码生成迈入业务执行。 |
-| 3 | GitHub 上哪些快速增长的开源项… | 未提取到快速增长无商业版开源项目信号。 |
-| 4 | 开发者在抱怨哪些工具 | 开发者抱怨Podman缺Compose、Git绑定、Deno缺全屏WebView。 |
+| 1 | 有哪些 solo-founder 产… | AI自动补写、对话视频导演、缩略图生成等独立产品集中发布 |
+| 2 | 哪些搜索词暴涨 | 开发者寻求模型自我进化控制权，GLM 5.2搜索暴涨 |
+| 3 | GitHub 上哪些快速增长的开源项… | 多个快速增长的AI开源项目缺乏企业级商业版本 |
+| 4 | 开发者在抱怨哪些工具 | Google Workspace威胁屏蔽Firefox致开发者被迫换浏览器 |
 | | **🛠️ 技术选型** | |
-| 5 | 有没有大公司关闭或降级了产品 | Claude下一代模型被指令暂停，Google威胁Firefox访问。 |
-| 6 | 增长最快的开发者工具有哪些 | Deno Desktop打包Web为桌面应用，AirLLM让4GB GPU推理70B模型。 |
-| 7 | HuggingFace 上最热的模型… | HF热门：百度OCR和图像转视频模型持续高热。 |
-| 8 | 最重要的开源 AI 进展是什么 | NVIDIA开源流式ASR，GLM-5.2 GGUF量化版发布。 |
-| 9 | 最受欢迎的 Show HN 项目在用… | Show HN项目偏好本地隐私和自托管，用Python和TypeScript。 |
+| 5 | 有没有大公司关闭或降级了产品 | Claude强推身份验证，Codex日志缺陷，OpenAI幻觉率高 |
+| 6 | 增长最快的开发者工具有哪些 | 增长工具聚焦代理性能：按需加载token、终端内嵌AI、上下文优化 |
+| 7 | HuggingFace 上最热的模型… | 多模态模型Qwythos-9B-Claude受热捧，社区关注图像文本理解 |
+| 8 | 最重要的开源 AI 进展是什么 | 开源AI进展集中在开放权重代码模型与本地部署agent |
+| 9 | 最受欢迎的 Show HN 项目在用… | Show HN热门项目聚焦本地优先的包管理、代码图谱与离线文档 |
 | | **📡 竞争情报** | |
-| 10 | Indie 开发者在讨论哪些收入和定… | FactoStack以$20/月基础设施获2付费客户，多数仍在零收入挣扎。 |
-| 11 | 有没有沉寂的老项目突然复活 | 微软markitdown让Office转Markdown，苹果容器运行时重现。 |
-| 12 | 有没有“XX 已死”或迁移类文章 | 用户和开发者正从集中封闭平台向本地开源去中心化工具迁移。 |
+| 10 | Indie 开发者在讨论哪些收入和定… | 独立开发者讨论账单欺诈与早期收入，个位数付费客户常见 |
+| 11 | 有没有沉寂的老项目突然复活 | Homebrew 6.0和Steam Machine复活，自主权回归 |
+| 12 | 有没有“XX 已死”或迁移类文章 | Codex日志bug与新Outlook劣化推动开发者转向本地替代 |
 | | **📈 趋势判断** | |
-| 13 | 最常见的技术关键词是什么？它们如何变… | 开发者从vibe coding转向agentic engineering，新增bot-sitting隐性劳动。 |
-| 14 | VC 和 YC 正在关注哪些话题 | 代理进入生产时，稀缺资源从计算能力转变为控制权。 |
+| 13 | 最常见的技术关键词是什么？它们如何变… | 热词出现声明式技能体系和bot-sitting，代理可控受关注 |
+| 14 | VC 和 YC 正在关注哪些话题 | VC同时为人注意力与Agent可控性定价，防分心与监控工具受捧 |
 | | **🎯 行动触发** | |
-| 15 | 如果今天有 2 小时或一个完整周末，… | 2小时应填补Deno Desktop共享CEF运行时，降包体积。 |
-| 16 | 哪些定价和变现模型值得研究 | 仅FactoStack月度订阅获付费验证，其他定价叙事无证据。 |
-| 17 | 最反直觉的发现是什么 | Deno Desktop引发Java臃肿担忧；Firecrawl付费后遇隐性用量壁垒。 |
-| 18 | Product Hunt 产品和开发… | PH产品将Agent评估、MCP等协议封装为垂直场景工具。 |
+| 15 | 如果今天有 2 小时或一个完整周末，… | Codex日志bug创造快速构建SSD保护工具的明确窗口 |
+| 16 | 哪些定价和变现模型值得研究 | 自托管社区对收费阻力明显，今日无已验证付费效应新模式 |
+| 17 | 最反直觉的发现是什么 | 今日无显著反直觉发现 |
+| 18 | Product Hunt 产品和开发… | PH产品封装AI代理支付与对话导演范式，可为开发者复用 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | oxlint和nuxt作为前端工具与框架，正在悄悄增长。 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | Rust框架burn和shell引擎starship悄然应用 |
 
 [完整归档 / Full archive →](zh/)
 
