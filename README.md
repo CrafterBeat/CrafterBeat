@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月24日
+## <a id="chinese"></a>💡 今日信号 · 6月25日
 
-> **[Cepho is syncing.....](https://www.indiehackers.com/post/cepho-is-syncing-lixOkH3BGSO096ChshPM)**：Cepho把离开电脑就无法继续编码的中断时刻，包装成一个可从手机随时接续的云端同步开发工作区。
+> **[Built an AI chatbot that reads your site and answers visitor questions 24/7](https://www.indiehackers.com/post/built-an-ai-chatbot-that-reads-your-
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-24.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-24.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-25.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-25.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 24
+## <a id="english"></a>💡 Today's signal · Jun 25
 
-> **[Cepho is syncing.....](https://www.indiehackers.com/post/cepho-is-syncing-lixOkH3BGSO096ChshPM)**: Cepho takes the moment your flow breaks when you
+> **[Built an AI chatbot that reads your site and answers visitor questions 24/7](https://www.indiehackers.com/post/built-an-ai-chatbot-that-reads-your-
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-24.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-24.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-25.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-25.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | Cepho 将离开电脑的中断变为手机可接续的云端开发工作区。 |
-| 2 | GitHub 上哪些快速增长的开源项… | Mac 轻量 Linux 容器、产品经理 AI 技能市场、浏览器代理框架等开源项目暂无商业版本。 |
-| 3 | 开发者被哪些工具变化卡住了 | AI 生成漏洞报告近九成误报，维护者被迫手工甄别低质提交。 |
+| 1 | 有哪些 solo-founder 产… | AI聊天机器人自动读取网站回答访客，健身管理软件整合碎片工具 |
+| 2 | GitHub 上哪些快速增长的开源项… | 开源AI技能、代码图谱和文档转换管道快速增长但未商业化 |
+| 3 | 开发者被哪些工具变化卡住了 | LLM安全对齐拒接请求，GitHub搜索被恶意仓库污染迫使自行甄别 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | 苹果容器和 Sakana Fugu 单 API 多智能体编排成为增长最快工具。 |
-| 6 | 开源社区有哪些热门模型和最新进展 | 量化代码模型与 1M 长上下文 GGUF 模型主导社区热度。 |
-| 8 | 最受欢迎的 Show HN 项目在用… | 交互式代码知识图谱和浏览器端手绘风格图形编辑器最受欢迎。 |
+| 5 | 增长最快的开发者工具有哪些 | AI代理可调用云服务，角色化编码和浏览器自动化工具快速增长 |
+| 6 | 开源社区有哪些热门模型和最新进展 | 开源视觉定位、代码模型与agentic视频制作系统热度飙升 |
+| 8 | 最受欢迎的 Show HN 项目在用… | 18年HN数据实时查询工具问世，自托管位置与文档转换受关注 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 3 美元微量订阅、免费挑战高价培训等信号显示低价分层获客。 |
-| 10 | 有没有沉寂的老项目突然复活 | Homebrew 6.0、复古 GIMP 打包、Audacity 4.0 等老项目集中复活。 |
-| 11 | 有没有“XX 已死”或迁移类文章 | 微软新 Outlook 性能十倍降速引发对 JS 技术栈和替代客户端的审视。 |
+| 9 | Indie 开发者在讨论哪些收入和定… | WeWard月入$615K，苹果涨价挤压预算，价格锚点意识增强 |
+| 10 | 有没有沉寂的老项目突然复活 | Homebrew 6.0发布重提包管理信任，复古系统移植与AI贡献验证再现 |
+| 11 | 有没有“XX 已死”或迁移类文章 | Claude强制身份验证与苹果涨价驱动开发者转向开放权重模型 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering 替代 vibe coding，要求代理行为可审计可复现。 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | 资本追问代理出错时谁拥有身份、谁控制权限、谁承担恢复成本。 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | 可审计技能文件系统替换模糊提示词，bot-sitting成为隐性劳动新词 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | Anthropic指控阿里模型窃取威胁估值，AI成本向芯片采购转移 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | 德国 152 天无法开发票的讨论揭露注册流程信息不对称的构建窗口。 |
-| 16 | 最反直觉的发现是什么 | curl 因 AI 漏洞误报率近九十趴，宣布暂停接收漏洞报告一个月。 |
-| 17 | Product Hunt 产品和开发… | Upstream、Goldfish 等将 AI 能力封装为人类与代理共用的通信/任务层。 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | HN Trends需相对量调整功能，简单修补绝对提及数除以总帖量 |
+| 16 | 最反直觉的发现是什么 | GitHub恶意仓库污染使星数信号不可信，文档管道输出依赖模型加载 |
+| 17 | Product Hunt 产品和开发… | 模型路由、代理编排和浏览器自动化被封装为可复用API |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | serde、tokio、axum 等 Rust 生态库作为基础设施层仍在悄悄起飞。 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | Ollama Python客户端和Rust异步运行时等底层库使用量飙升 |
 
 [完整归档 / Full archive →](zh/)
 
