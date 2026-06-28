@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 6月27日
+## <a id="chinese"></a>💡 今日信号 · 6月28日
 
-> **[Bond](https://www.producthunt.com/products/bond-12/launches/bond-717)**：Bond 把记录和管理待办事项的工作包装成自动执行的 AI 待办清单。
+> **[0 users, 5 blog posts, live workout rooms with stick figures ， building a fitness accountability app](https://www.indiehackers.com/post/0-users-5-b
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-27.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-27.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-06-28.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-06-28.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jun 27
+## <a id="english"></a>💡 Today's signal · Jun 28
 
-> **[Bond](https://www.producthunt.com/products/bond-12/launches/bond-717)**: Bond wraps the work of recording and managing to-dos into an AI-powered, a
+> **[0 users, 5 blog posts, live workout rooms with stick figures, building a fitness accountability app](https://www.indiehackers.com/post/0-users-5-bl
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-27.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-27.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-06-28.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-06-28.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | Bond等solo产品将AI包装为待办清单、幻灯片等具体任务工具 |
-| 2 | GitHub 上哪些快速增长的开源项… | 多个快速增长的开源项目无商业版本，涉及AI技能、文档转换等 |
-| 3 | 开发者被哪些工具变化卡住了 | 开发者面临AI监控、PR指标化、密码泄露和浏览器限制等压力 |
+| 1 | 有哪些 solo-founder 产… | 火柴人健身房间和植物花园将独自锻炼、习惯追踪失败愧疚游戏化 |
+| 2 | GitHub 上哪些快速增长的开源项… | 无商业版本的开源AI视频生产、股票分析等项目快速增长 |
+| 3 | 开发者被哪些工具变化卡住了 | ChatGPT图片过滤无公告放宽，开发者自行监控合规边界 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | Cloud World Model等增长工具聚焦成本模拟与Agent编排 |
-| 6 | 开源社区有哪些热门模型和最新进展 | 开源OCR、推理与世界模型涌现，VibeThinker-3B等受关注 |
-| 8 | 最受欢迎的 Show HN 项目在用… | HN展示轻量离线工具热，全离线3D建模与文档转Markdown |
+| 5 | 增长最快的开发者工具有哪些 | cupy GPU加速、代理记忆与Skybridge代理UI框架增长最快 |
+| 6 | 开源社区有哪些热门模型和最新进展 | Qwythos等开源模型支持百万token上下文和函数调用下载火热 |
+| 8 | 最受欢迎的 Show HN 项目在用… | Redis实时直方图、LLM压缩与全自动视频生成成Show HN焦点 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 一次性定价讨论重现，AI产品普遍无收入验证 |
-| 10 | 有没有沉寂的老项目突然复活 | markitdown等文档转换与知识管理老工具近期star激增 |
-| 11 | 有没有“XX 已死”或迁移类文章 | Firefox受限、LastPass泄露推动浏览器和密码管理器迁移 |
+| 9 | Indie 开发者在讨论哪些收入和定… | 单人AI工具栈月费超$150，早期收入仅$2.62‑$30 MRR |
+| 10 | 有没有沉寂的老项目突然复活 | UEFI证书过期、复古OS移植等老问题重新活跃 |
+| 11 | 有没有“XX 已死”或迁移类文章 | LastPass泄露引发迁移，闭源API转向本地模型趋势增强 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | 开发者命名bot-sitting，反映AI代理监控的隐性劳动 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | VC关注Agent运维成本与创始人亲自构建对退出估值的影响 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering成日常词，本地模型控制权与代理安全技能爆发 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | GTM执行被固化为可购买代理流程，agent原生基础设施争夺控制权 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | 推测解码横向对比缺失，低成本DeepSeek方案未被产品化 |
-| 16 | 最反直觉的发现是什么 | AI技能解决实际问题却无人付费，与开发者反感指标化冲突 |
-| 17 | Product Hunt 产品和开发… | AgentX等工具将代理评估、发布与测试封装为开发者服务 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | HN用户紧急甄别AI生成内容，Agent‑Reach项目暴涨 |
+| 16 | 最反直觉的发现是什么 | 代理基础设施扩张，但GPT‑5.6被政府限制，记忆工具反而推高成本 |
+| 17 | Product Hunt 产品和开发… | AI代理嵌入邮件、投融资匹配等场景，复用现有工作流 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | ollama Python客户端、serde等基础库默默增长 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | oxlint、ollama‑python、ripgrep、starship无声普及 |
 
 [完整归档 / Full archive →](zh/)
 
