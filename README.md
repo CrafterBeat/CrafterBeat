@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 7月1日
+## <a id="chinese"></a>💡 今日信号 · 7月3日
 
-> **[a markdown workspace your AI can write in (and the honest launch-day reality)](https://www.indiehackers.com/post/a-markdown-workspace-your-ai-can-w
+> **[1 download a day for months .. so i stopped hiding and did a real launch](https://www.indiehackers.com/post/1-download-a-day-for-months-so-i-stoppe
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-01.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-01.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-03.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-03.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jul 1
+## <a id="english"></a>💡 Today's signal · Jul 3
 
-> **[a markdown workspace your AI can write in (and the honest launch-day reality)](https://www.indiehackers.com/post/a-markdown-workspace-your-ai-can-w
+> **[1 download a day for months .. so i stopped hiding and did a real launch](https://www.indiehackers.com/post/1-download-a-day-for-months-so-i-stoppe
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-01.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-01.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-03.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-03.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | AI 写作助手和 CAD 设计修改建议正在包装为独立产品 |
-| 2 | GitHub 上哪些快速增长的开源项… | 开源 AI 记忆平台和轻量数据库客户端增长迅猛，均无商业版本 |
-| 3 | 开发者被哪些工具变化卡住了 | AI 检测误判和代码缺少记忆迫使开发者承担额外责任 |
+| 1 | 有哪些 solo-founder 产… | 自然语言待办即时转为自动解析日程，减少填表摩擦 |
+| 2 | GitHub 上哪些快速增长的开源项… | AI 技能市场和容器工具空白明显，尚无商业包装 |
+| 3 | 开发者被哪些工具变化卡住了 | AI 代码膨胀和许可变更迫使开发者为控制权付费或迁移 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | AgentPeek 和 N71 将代理审批与共享上下文直接嵌入开发者工作流 |
-| 6 | 开源社区有哪些热门模型和最新进展 | baidu/Unlimited-OCR 和 Z-Image-Turbo 成为 HuggingFace 最热门模型 |
-| 8 | 最受欢迎的 Show HN 项目在用… | 知识图谱和隐私蜜罐成为 Show HN 主角，技术栈偏好 TypeScript |
+| 5 | 增长最快的开发者工具有哪些 | 代理调试可录放和 token 压缩成为效率新刚需 |
+| 6 | 开源社区有哪些热门模型和最新进展 | 视觉定位与本地代码生成模型下载热度集中 |
+| 8 | 最受欢迎的 Show HN 项目在用… | 跨平台搜索代理和自动化视频生产系统占据主流 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | Shift 独立开发者以 $100 月开销实现 $50k MRR，支付受阻倒逼自建工具 |
-| 10 | 有没有沉寂的老项目突然复活 | Claude Code 隐写术、Pidgin 更新与 Servo 引擎重回技术讨论 |
-| 11 | 有没有“XX 已死”或迁移类文章 | 欧美数据跨境传输法律动摇，迫使企业重新评估云架构 |
+| 9 | Indie 开发者在讨论哪些收入和定… | 首次 $4k 收入验证独立产品可能，零订阅模型浮现 |
+| 10 | 有没有沉寂的老项目突然复活 | 离线可互操作的旧工具集体回潮，重新评估控制 |
+| 11 | 有没有“XX 已死”或迁移类文章 | 数字所有权丧失推动物理介质和本地控制方案复活 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | 可审计的 agentic 工程与模型访问中断成为日常技术语汇 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | 资本将预算投向 AI agent 权限审批与评估，构建可恢复的控制层 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | 代理从对话界面转入后台，技能文件接管行为控制 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | 资本重判代理运营控制权和收入可验证性 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | 匿名 GitHub 批量扔 0-day 漏洞，急需漏洞碎片聚合管理工具 |
-| 16 | 最反直觉的发现是什么 | AI 编码无记忆却催生最快增长的记忆基础设施 |
-| 17 | Product Hunt 产品和开发… | Skybridge 用 React 组件化方式封装 MCP agent 构建流程 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | 立即构建离线媒体库，应对数字内容被平台远程删除 |
+| 16 | 最反直觉的发现是什么 | 自动化加速产出同时放大审查成本，抓取与被追踪同现 |
+| 17 | Product Hunt 产品和开发… | 将邮件、聊天等现有界面封装为代理协作空间 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | serde 和 tokio 作为 Rust 底层依赖持续默默增长 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | zoxide 和 starship 隐式优化终端效率，静默起飞 |
 
 [完整归档 / Full archive →](zh/)
 
