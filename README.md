@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 7月4日
+## <a id="chinese"></a>💡 今日信号 · 7月5日
 
-> 详表：[独立产品发布盲信号包](2026-07-03_indie_launch_detail.md)
+> **[CentryAI](https://www.producthunt.com/products/centryai)**：把手动追踪各类订阅的零散核对工作包装成自动检测并管理全部付费订阅的清单工具。
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-04.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-04.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-05.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-05.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jul 4
+## <a id="english"></a>💡 Today's signal · Jul 5
 
-> Detailed Table: [Indie Launch Blind Signal Pack](2026-07-03_indie_launch_detail.md)
+> **[CentryAI](https://www.producthunt.com/products/centryai)**: packaged the fragmented manual grind of tracking subscriptions into a single dashboard 
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-04.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-04.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-05.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-05.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 今日独立开发者发布多款产品，详见盲信号包 |
-| 2 | GitHub 上哪些快速增长的开源项… | Apple容器、AI视频制作等开源项目快速增长且无商业版 |
-| 3 | 开发者被哪些工具变化卡住了 | 工具评分不一致和隐藏计费变化迫使开发者自行验证成本 |
+| 1 | 有哪些 solo-founder 产… | 订阅管理工具、无代码后端和找创作者邮件插件等独立产品涌现 |
+| 2 | GitHub 上哪些快速增长的开源项… | 系统提示泄露、代码知识图谱、匿名通信等开源工具填补商业空白 |
+| 3 | 开发者被哪些工具变化卡住了 | ATS评分剧烈波动、丢失管理员权限和客户端隐写标记令开发者受阻 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | 代理调试和MCP集成工具成为本周增长最快开发者工具 |
-| 6 | 开源社区有哪些热门模型和最新进展 | 视觉定位模型与本地大上下文推理成为开源热点 |
-| 8 | 最受欢迎的 Show HN 项目在用… | Show HN热门项目以Python实现代理和自托管替代方案 |
+| 5 | 增长最快的开发者工具有哪些 | Agent评估修复、3D可视化代理执行和极简token压缩工具增长最快 |
+| 6 | 开源社区有哪些热门模型和最新进展 | 本地代理模型、免费AI网关和自托管上下文工具推动离线编码自主性 |
+| 8 | 最受欢迎的 Show HN 项目在用… | C语言知识图谱、Python视频管线和自托管隧道成为技术焦点 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 独立开发者收入验证稀缺，支付阻断与获客瓶颈突出 |
-| 10 | 有没有沉寂的老项目突然复活 | 免费IPTV清单等老项目因持续实用需求重新活跃 |
-| 11 | 有没有“XX 已死”或迁移类文章 | 自托管替代云服务成迁移方向，平台设计自由度收缩 |
+| 9 | Indie 开发者在讨论哪些收入和定… | 多数新项目零收入或极低转化，基础设施成本可低至£4/月 |
+| 10 | 有没有沉寂的老项目突然复活 | 容器基础设施、隐写争议和Emacs工具复活，老项目重获关注 |
+| 11 | 有没有“XX 已死”或迁移类文章 | LUKS挂起不擦密钥、Godot拒AI贡献，安全和信任默认假设动摇 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | agentic能力嵌入键盘等界面，隐写标记引发信任危机 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | 资本关注代理间支付发现协议和合规举证界面 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | 隐写标记、代理键盘和声明性技能文件成为本周关键新词 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | 创始人控制权争议与可审计代理支付正重塑资本与运营边界 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | Android验证事件暴露本地受控开发工具需求缺口 |
-| 16 | 最反直觉的发现是什么 | AI分析承诺稳定却评分随机跳跃，工具信任矛盾凸显 |
-| 17 | Product Hunt 产品和开发… | 代理能力被封装进邮件、快捷键等现有工作界面 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | 本地模型能力模糊，配置调优耗时已超过实际应用逻辑开发 |
+| 16 | 最反直觉的发现是什么 | 代理赋予搜索自由但泄露网络指纹，开源ATS反增运气筛选 |
+| 17 | Product Hunt 产品和开发… | 后端分支、AI克隆和3D代理可视化等PH产品与开发者工具重叠 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | Rust异步运行时与HTTP库默默支撑后端生态 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | gradio、zoxide、deno等底层工具库在静默中支撑AI链构建 |
 
 [完整归档 / Full archive →](zh/)
 
