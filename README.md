@@ -7,62 +7,61 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 7月10日
+## <a id="chinese"></a>💡 今日信号 · 7月11日
 
-> **[I built an AI production workspace for short-drama creators](https://www.indiehackers.com/post/i-built-an-ai-production-workspace-for-short-drama-c
+> **[ChatCut](https://www.producthunt.com/products/chatcut-ai-video-editor)**：把视频剪辑工作包装成AI驱动的桌面与网页端自动编辑成品视频。
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-10.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-10.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-11.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-11.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jul 10
+## <a id="english"></a>💡 Today's signal · Jul 11
 
-> **[I built an AI production workspace for short-drama creators](https://www.indiehackers.com/post/i-built-an-ai-production-workspace-for-short-drama-c
+> **[ChatCut](https://www.producthunt.com/products/chatcut-ai-video-editor)** wraps video editing into an AI-powered desktop and web app that auto-edits
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-10.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-10.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-11.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-11.md)
 
 </p>
 
 ---
 <a id="glance"></a>
 
-## 📋 今日 15 章速览 / Today at a Glance
+## 📋 今日 14 章速览 / Today at a Glance
 
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 独立开发者将短剧创作和客户评论管理包装成AI工作空间与声誉自动驾驶 |
-| 2 | GitHub 上哪些快速增长的开源项… | AI代理技能安全、生产级工程技能与设计系统成开源商业空白热点 |
-| 3 | 开发者被哪些工具变化卡住了 | GitHub安全性缺失与成本失控迫使开发者自托管，LUKS密钥残留动摇加密假设 |
+| 1 | 有哪些 solo-founder 产… | AI驱动视频编辑、数字名片和自动化测试产品密集发布 |
+| 2 | GitHub 上哪些快速增长的开源项… | AI模型系统提示词泄露和代理技能生成等开源项目仍无商业化 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | 代理沙箱隔离、调试工具封装及本地文档更新成开发者工具增长焦点 |
-| 6 | 开源社区有哪些热门模型和最新进展 | NVIDIA安全扫描和Qwen TTS等模型崛起，多GPU高速推理引发社区关注 |
-| 8 | 最受欢迎的 Show HN 项目在用… | 全Swift栈、零依赖前端与C语言知识图谱支撑代理毫秒级代码理解 |
+| 5 | 增长最快的开发者工具有哪些 | AI代码审查与行为验证工具成为增长最快的开发者工具类别 |
+| 6 | 开源社区有哪些热门模型和最新进展 | 开源视觉语言模型和MoE架构成为社区追捧热点 |
+| 8 | 最受欢迎的 Show HN 项目在用… | 零依赖离线编辑器与反检测浏览器借AI代理驱动和内核修改兴起 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 独立项目多数仅几百美元收入，订阅价格密集分布在$9-$29/月 |
-| 10 | 有没有沉寂的老项目突然复活 | Bun与Postgres用Rust重写，经典教材和软盘指南复活见证可移植性回归 |
-| 11 | 有没有“XX 已死”或迁移类文章 | 数字所有权失效与平台控制担忧催生从GitHub、加密假设中抽离的迁移冲动 |
+| 9 | Indie 开发者在讨论哪些收入和定… | AI广告工具上线月余零付费，加密支付替代方案兴起但无收入数据 |
+| 10 | 有没有沉寂的老项目突然复活 | 老容器项目、开放笔记和复古Linux发行版突然复活，Lisp和APL重获讨论 |
+| 11 | 有没有“XX 已死”或迁移类文章 | Bun放弃Zig转向Rust，AI代码倦怠和数字所有权争议标志技术债务与信任危机 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | bot-sitting等新词把代理隐性成本、注入漏洞和行为控制明确为开发议题 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | 代理治理归属未定但工具争定义权，模型定价分化迫使显性路由成本控制 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | bot-sitting与GitLost等词揭示AI代理不可靠性和安全漏洞已成开发者焦点 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | 代理泄露私有仓库催生审计需求，资本转向代理运营负责人和收入责任验证 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | 为代理提供稳定输出语法搭配10倍编译提速工具，重构供给面 |
-| 16 | 最反直觉的发现是什么 | 安全工具供给不及代理安全边界瓦解速度，隐私立法扩大化与开发者感知冲突 |
-| 17 | Product Hunt 产品和开发… | 通过MCP全栈框架与持续改进模式封装，降低AI代理集成与运维门槛 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | 新模型发布后官方缺客户端，聚合原始能力的2小时窗口成为快速搭建机会 |
+| 16 | 最反直觉的发现是什么 | 模型调用优化承诺遭开发者复用旧项目抵抗，隐私法规与规避工具同步增长 |
+| 17 | Product Hunt 产品和开发… | 聊天式创建器、代理工作空间和AI同事将开发能力封装为无代码产品 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | Tokio等Rust异步运行时与轻量级桌面框架悄然成为底层基座 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | Rust生态核心库serde、tokio、axum等下载量悄悄起飞但讨论不足 |
 
 [完整归档 / Full archive →](zh/)
 
