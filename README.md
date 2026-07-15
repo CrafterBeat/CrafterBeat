@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 7月14日
+## <a id="chinese"></a>💡 今日信号 · 7月15日
 
-> **[After 4 months of nights and weekends, I finally launched SoundScript](https://www.indiehackers.com/post/after-4-months-of-nights-and-weekends-i-fi
+> 详表：[独立产品发布盲信号包](2026-07-14_indie_launch_detail.md)
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-14.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-14.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-15.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-15.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jul 14
+## <a id="english"></a>💡 Today's signal · Jul 15
 
-> **[After 4 months of nights and weekends, I finally launched SoundScript](https://www.indiehackers.com/post/after-4-months-of-nights-and-weekends-i-fi
+> Detailed Table: [Indie Product Launch Blind Signal Pack](2026-07-14_indie_launch_detail.md)
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-14.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-14.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-15.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-15.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | SoundScript 将音乐创作用文本语言确定复现，实现版本控制 |
-| 2 | GitHub 上哪些快速增长的开源项… | herdr、astryx、graphify 等代理工具与技能包构成开源商业空白 |
-| 3 | 开发者被哪些工具变化卡住了 | Grok CLI 全量上传主目录，Claude Code 预提示令牌消耗惊人 |
+| 1 | 有哪些 solo-founder 产… | 今日无显著 solo-founder 产品发布信号 |
+| 2 | GitHub 上哪些快速增长的开源项… | 系统提示泄露、本地AI会议等开源工具爆发，商业化空白显著 |
+| 3 | 开发者被哪些工具变化卡住了 | Codex加密提示、Grok CLI泄露主目录，AI编码引发信任与协作危机 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | Osaurus 等代理安全审批工具爆发，解决代理失控信任顾虑 |
-| 6 | 开源社区有哪些热门模型和最新进展 | Unlimited-OCR 长图文字提取需求持续高位，多模态代理模型涌现 |
-| 8 | 最受欢迎的 Show HN 项目在用… | Clawk 等通过容器隔离代理执行，MCP 成为协作控制平面 |
+| 5 | 增长最快的开发者工具有哪些 | AI网关、代理沙箱和可恢复浏览器自动化成增长最快方向 |
+| 6 | 开源社区有哪些热门模型和最新进展 | 本地代理模型涌现，代理技能安全扫描SkillSpector增长迅猛 |
+| 8 | 最受欢迎的 Show HN 项目在用… | 无根网络隔离、前端Word转换和SQL神经网络等展示技术巧思 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 早期定价区间 $29-49/月，零付费与 Stripe 无故关闭账户信号出现 |
-| 10 | 有没有沉寂的老项目突然复活 | iptv-org 重新活跃，Simplex Chat 无中心加密设计回归讨论 |
-| 11 | 有没有“XX 已死”或迁移类文章 | Bun 从 Zig 全面转向 Rust，开发者被迫重估依赖与平台默认路径 |
+| 9 | Indie 开发者在讨论哪些收入和定… | 零付费用户反思与预销售验证并存的独立变现早期挣扎 |
+| 10 | 有没有沉寂的老项目突然复活 | 古老项目以Rust重写、SQLite迁移复活，反思工具链债务 |
+| 11 | 有没有“XX 已死”或迁移类文章 | Bun重写至Rust、Lobsters迁至SQLite，开发者主动脱离平台锁定 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering 取代 vibe coding，bot-sitting 成日常成本关注词 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | 代理预算归属成关键，稳定运行和合规举证阻碍企业预算进入 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering等新词命名AI代理监控与安全负债 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | VC转向净收入留存验证，代理支付管道和人机审批层成控制权核心 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | Grok CLI 全量上传恐慌催生隔离工具机会，隐私检测是 2 小时内可做 MVP |
-| 16 | 最反直觉的发现是什么 | Claude Code 的庞大 preamble 消耗预算，抵消统一代理效率 |
-| 17 | Product Hunt 产品和开发… | Skybridge 将 MCP 封装成全栈框架，agent 评测与质量保障产品化 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | 检查关键数据流转与AI工作流透明度，防范平台突发失控 |
+| 16 | 最反直觉的发现是什么 | AI能力增强但持续移除用户控制权与隐私边界 |
+| 17 | Product Hunt 产品和开发… | 代理协作收件箱、本地助理和代理支付发现层成重叠热点 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | litellm、langchain 等 LLM 适配与编排库持续高下载，构成应用基座 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | Rust异步基础设施和轻量ML框架在默默增长 |
 
 [完整归档 / Full archive →](zh/)
 
