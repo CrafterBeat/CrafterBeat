@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 7月15日
+## <a id="chinese"></a>💡 今日信号 · 7月16日
 
-> 详表：[独立产品发布盲信号包](2026-07-14_indie_launch_detail.md)
+> **[AutoSubmit.to: Launch Profile Automation for Product Directory Submissions](https://www.indiehackers.com/post/autosubmit-to-launch-profile-automati
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-15.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-15.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-16.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-16.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jul 15
+## <a id="english"></a>💡 Today's signal · Jul 16
 
-> Detailed Table: [Indie Product Launch Blind Signal Pack](2026-07-14_indie_launch_detail.md)
+> **[AutoSubmit.to: Launch Profile Automation for Product Directory Submissions](https://www.indiehackers.com/post/autosubmit-to-launch-profile-automati
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-15.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-15.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-16.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-16.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 今日无显著 solo-founder 产品发布信号 |
-| 2 | GitHub 上哪些快速增长的开源项… | 系统提示泄露、本地AI会议等开源工具爆发，商业化空白显著 |
-| 3 | 开发者被哪些工具变化卡住了 | Codex加密提示、Grok CLI泄露主目录，AI编码引发信任与协作危机 |
+| 1 | 有哪些 solo-founder 产… | 独立开发者将手动提交和格式转换包装为自动化工具 |
+| 2 | GitHub 上哪些快速增长的开源项… | 开源涌现推送防护、Agent技能库和C++库，尚无商业替代 |
+| 3 | 开发者被哪些工具变化卡住了 | AI条款胁迫、IDE自动执行、加密代理黑箱，安全责任转嫁开发者 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | AI网关、代理沙箱和可恢复浏览器自动化成增长最快方向 |
-| 6 | 开源社区有哪些热门模型和最新进展 | 本地代理模型涌现，代理技能安全扫描SkillSpector增长迅猛 |
-| 8 | 最受欢迎的 Show HN 项目在用… | 无根网络隔离、前端Word转换和SQL神经网络等展示技术巧思 |
+| 5 | 增长最快的开发者工具有哪些 | 多代理协作工作区和本地审查记忆同步工具快速增长 |
+| 6 | 开源社区有哪些热门模型和最新进展 | 开源模型动态无新增信号，详见内部表格 |
+| 8 | 最受欢迎的 Show HN 项目在用… | 微虚拟机、WASM浏览器与Wails桌面等新颖技术栈涌现 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 零付费用户反思与预销售验证并存的独立变现早期挣扎 |
-| 10 | 有没有沉寂的老项目突然复活 | 古老项目以Rust重写、SQLite迁移复活，反思工具链债务 |
-| 11 | 有没有“XX 已死”或迁移类文章 | Bun重写至Rust、Lobsters迁至SQLite，开发者主动脱离平台锁定 |
+| 9 | Indie 开发者在讨论哪些收入和定… | 极早期€10/年与固定许可成交，定价从按座转向一次性 |
+| 10 | 有没有沉寂的老项目突然复活 | HTMX/Go回归、全披露漏洞与C语言缺陷等旧话题重燃 |
+| 11 | 有没有“XX 已死”或迁移类文章 | FreeBSD去GPL、监控退出、IDE自动执行，打破默认信任 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering等新词命名AI代理监控与安全负债 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | VC转向净收入留存验证，代理支付管道和人机审批层成控制权核心 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering取代vibe coding，代理行为走向可审计 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | 代理自主执行引发预算归属、付费转化与数据主权的新经营结构 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | 检查关键数据流转与AI工作流透明度，防范平台突发失控 |
-| 16 | 最反直觉的发现是什么 | AI能力增强但持续移除用户控制权与隐私边界 |
-| 17 | Product Hunt 产品和开发… | 代理协作收件箱、本地助理和代理支付发现层成重叠热点 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | 利用2小时构建IDE自动执行检测或记忆泄露审计工具 |
+| 16 | 最反直觉的发现是什么 | AI编码工具协作风险与开源模型障碍并存，大投资动摇评级 |
+| 17 | Product Hunt 产品和开发… | 多Agent编排、3D生成与统一工作空间打包为可复用基础设施 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | Rust异步基础设施和轻量ML框架在默默增长 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | Rust序列化、异步运行时和HTTP库构成静默增长基础设施 |
 
 [完整归档 / Full archive →](zh/)
 
