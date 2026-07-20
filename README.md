@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 7月19日
+## <a id="chinese"></a>💡 今日信号 · 7月20日
 
-> **[An e-mail based AI co-worker](https://www.indiehackers.com/post/an-e-mail-based-ai-co-worker-b2cab75373)**：把通过邮件转发问题并让AI记住、推理和回复的具体工作包装成一个邮件AI同事。
+> **[Mirage](https://www.producthunt.com/products/mirage-15)**：Mirage 将制作 SaaS 产品可点击演示的工作包装成一个 90 秒快速生成演示的工具。
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-19.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-19.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-20.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-20.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jul 19
+## <a id="english"></a>💡 Today's signal · Jul 20
 
-> **[An email-based AI co-worker](https://www.indiehackers.com/post/an-e-mail-based-ai-co-worker-b2cab75373)**: Package the concrete work of forwarding 
+> **[Mirage](https://www.producthunt.com/products/mirage-15)**: Mirage wraps the work of creating clickable SaaS demos into a tool that generates a demo
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-19.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-19.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-20.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-20.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | 邮件AI同事、API中转省钱和按需印刷调研工具成为独立开发新方向 |
-| 2 | GitHub 上哪些快速增长的开源项… | 代码知识图谱、本地转录和视频智能体编排等开源项目未商业化即快速增长 |
-| 3 | 开发者被哪些工具变化卡住了 | Claude Code默认自动接受行为使开发者未读完即承担意外操作后果 |
+| 1 | 有哪些 solo-founder 产… | SaaS演示、SEO、AI键盘等工具大幅降低非技术用户实现门槛 |
+| 2 | GitHub 上哪些快速增长的开源项… | 多个快速增长开源项目缺乏付费版本，视频编辑、AI辅导等空缺显著 |
+| 3 | 开发者被哪些工具变化卡住了 | 工具变化致开发者陷计费错误、上下文缩水、静默安装等困境 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | 多代理画布管理、可中断网页自动化和代理检查点工具获得开发者关注 |
-| 6 | 开源社区有哪些热门模型和最新进展 | 开源模型在百万token上下文、中英双语和手机端量化运行上进展显著 |
-| 8 | 最受欢迎的 Show HN 项目在用… | WASM环境、蜜罐威胁监控和离线数据处理成为技术亮点 |
+| 5 | 增长最快的开发者工具有哪些 | 为AI代理提供云端独立工作区与精简操作工具快速增长 |
+| 6 | 开源社区有哪些热门模型和最新进展 | 多模态开源模型和本地大参数模型需求推高社区热度 |
+| 8 | 最受欢迎的 Show HN 项目在用… | 低成本硬件替代高价系统、WASM和自托管强调隐私与可控性 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 独立开发者零成本替代付费工具，但MRR难破百美元且分发成瓶颈 |
-| 10 | 有没有沉寂的老项目突然复活 | SQLite优化、Lisp方言讨论与Z80 50周年使旧技术重回视野 |
-| 11 | 有没有“XX 已死”或迁移类文章 | OnePlus退出欧美、StackOverflow转向AI、开源逼近闭源和数字所有权虚化 |
+| 9 | Indie 开发者在讨论哪些收入和定… | 支付阻断持续，订阅疲劳浮现，早期产品实现3000美元月收入验证 |
+| 10 | 有没有沉寂的老项目突然复活 | 老项目通过WebAssembly、模拟器或去中心化方式在现代环境重生 |
+| 11 | 有没有“XX 已死”或迁移类文章 | 一加退出、索尼删电影、工具链Rust替代，端侧AI侵蚀云服务控制 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | “agentic engineering”取代“vibe coding”，要求AI代理可控制可审计 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | 资本争夺代理间交易结算权，早期AI产品免费到付费转化困难 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | 代理工程、代码库记忆、提示泄露审计凸显AI行为可控需求 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | 投资人关注AI代理控制权、本地隐私架构和线下支付转化信号 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | Windows Update静默安装外设推广软件，需组策略阻止 |
-| 16 | 最反直觉的发现是什么 | 显示器通过Windows Update植入推广软件，编码助手自动接受致误操作 |
-| 17 | Product Hunt 产品和开发… | LLM代理嵌入收件箱和创作者工具，封装为应用界面趋势 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | 基于可靠转录库为本地转录需求构建易用界面是当前机会 |
+| 16 | 最反直觉的发现是什么 | Kimi K3暂停新用户，Codex缩窗，开源增长未变现 |
+| 17 | Product Hunt 产品和开发… | AI键盘、代理测试、SEO等工具复用LLM能力封装职业角色专用产品 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | 序列化框架、全栈Web工具和终端搜索导航库低调持续增长 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | reflex、zoxide、ripgrep等开发必备包悄然增长 |
 
 [完整归档 / Full archive →](zh/)
 
