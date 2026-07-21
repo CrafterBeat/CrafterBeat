@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 7月20日
+## <a id="chinese"></a>💡 今日信号 · 7月21日
 
-> **[Mirage](https://www.producthunt.com/products/mirage-15)**：Mirage 将制作 SaaS 产品可点击演示的工作包装成一个 90 秒快速生成演示的工具。
+> **[A monitor that tells you what changed, not just that something did.](https://www.indiehackers.com/post/a-monitor-that-tells-you-what-changed-not-ju
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-20.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-20.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-21.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-21.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jul 20
+## <a id="english"></a>💡 Today's signal · Jul 21
 
-> **[Mirage](https://www.producthunt.com/products/mirage-15)**: Mirage wraps the work of creating clickable SaaS demos into a tool that generates a demo
+> **[A monitor that tells you what changed, not just that something did.](https://www.indiehackers.com/post/a-monitor-that-tells-you-what-changed-not-ju
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-20.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-20.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-21.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-21.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | SaaS演示、SEO、AI键盘等工具大幅降低非技术用户实现门槛 |
-| 2 | GitHub 上哪些快速增长的开源项… | 多个快速增长开源项目缺乏付费版本，视频编辑、AI辅导等空缺显著 |
-| 3 | 开发者被哪些工具变化卡住了 | 工具变化致开发者陷计费错误、上下文缩水、静默安装等困境 |
+| 1 | 有哪些 solo-founder 产… | MyMonit 通知网页具体变化，AnyDub 一键开启浏览器内实时多语言配音 |
+| 2 | GitHub 上哪些快速增长的开源项… | 开源项目填补AI代理安全、记忆与SEO工具空白 |
+| 3 | 开发者被哪些工具变化卡住了 | Claude固定短语、HuggingFace护栏阻碍取证、AI代码审查让开发者耗尽 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | 为AI代理提供云端独立工作区与精简操作工具快速增长 |
-| 6 | 开源社区有哪些热门模型和最新进展 | 多模态开源模型和本地大参数模型需求推高社区热度 |
-| 8 | 最受欢迎的 Show HN 项目在用… | 低成本硬件替代高价系统、WASM和自托管强调隐私与可控性 |
+| 5 | 增长最快的开发者工具有哪些 | Apple硬件本地LLM提速6.4倍，命令卫士、远程代理与治理点共热 |
+| 6 | 开源社区有哪些热门模型和最新进展 | ThinkingCap 多模态思考、1-bit 量化模型手机运行、图转视频与3D GUI齐发 |
+| 8 | 最受欢迎的 Show HN 项目在用… | ESP32替代12万美元系统，浏览器本地TTS，350亿参数模型本地推理 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 支付阻断持续，订阅疲劳浮现，早期产品实现3000美元月收入验证 |
-| 10 | 有没有沉寂的老项目突然复活 | 老项目通过WebAssembly、模拟器或去中心化方式在现代环境重生 |
-| 11 | 有没有“XX 已死”或迁移类文章 | 一加退出、索尼删电影、工具链Rust替代，端侧AI侵蚀云服务控制 |
+| 9 | Indie 开发者在讨论哪些收入和定… | 17美元视频成本促生本地40美分方案，零收入平台标价出售，支付失败损失量化 |
+| 10 | 有没有沉寂的老项目突然复活 | Quake3地图浏览器编辑、Firefox递归运行、AR卫星追踪老项目复活 |
+| 11 | 有没有“XX 已死”或迁移类文章 | 一加退出欧美，索尼删已购电影，数字所有权和AI代码信任破裂 |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | 代理工程、代码库记忆、提示泄露审计凸显AI行为可控需求 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | 投资人关注AI代理控制权、本地隐私架构和线下支付转化信号 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering与codebase memory主导，要求AI输出可审计和记忆安全 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | 投资人追问agent失败处理、运营成本审计和小团队收入可持续性 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | 基于可靠转录库为本地转录需求构建易用界面是当前机会 |
-| 16 | 最反直觉的发现是什么 | Kimi K3暂停新用户，Codex缩窗，开源增长未变现 |
-| 17 | Product Hunt 产品和开发… | AI键盘、代理测试、SEO等工具复用LLM能力封装职业角色专用产品 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | 用GPT5.6和25美元找到价值50万美元的WordPress RCE漏洞 |
+| 16 | 最反直觉的发现是什么 | AI护栏阻碍安全取证、自动化代码维护磨损本地硬件、沙箱逃逸威胁代理安全 |
+| 17 | Product Hunt 产品和开发… | AI桌面快捷回复、浏览器代理会话、销售预热等封装成即用产品 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | reflex、zoxide、ripgrep等开发必备包悄然增长 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | oxlint、axum、deno、actix-web 和 reflex 等现代工具链包下载量飙升 |
 
 [完整归档 / Full archive →](zh/)
 
