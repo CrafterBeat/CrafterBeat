@@ -7,31 +7,31 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 
 ---
 
-## <a id="chinese"></a>💡 今日信号 · 7月21日
+## <a id="chinese"></a>💡 今日信号 · 7月22日
 
-> **[A monitor that tells you what changed, not just that something did.](https://www.indiehackers.com/post/a-monitor-that-tells-you-what-changed-not-ju
+> 详表：[独立产品发布盲信号包](2026-07-21_indie_launch_detail.md)
 
 
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-21.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-21.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026-07-22.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026-07-22.md)
 
 </p>
 
 ---
 
-## <a id="english"></a>💡 Today's signal · Jul 21
+## <a id="english"></a>💡 Today's signal · Jul 22
 
-> **[A monitor that tells you what changed, not just that something did.](https://www.indiehackers.com/post/a-monitor-that-tells-you-what-changed-not-ju
+> Detailed Table: [Indie Product Launch Blind Signal Package](2026-07-21_indie_launch_detail.md)
 
 
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-21.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-21.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026-07-22.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026-07-22.md)
 
 </p>
 
@@ -43,26 +43,26 @@ _一个构建建议。一个行动理由。来自 300+ 实时公开信号。_
 | # | 章节 | 一句话精华 |
 |:---:|------|-----------|
 | | **🔍 发现机会** | |
-| 1 | 有哪些 solo-founder 产… | MyMonit 通知网页具体变化，AnyDub 一键开启浏览器内实时多语言配音 |
-| 2 | GitHub 上哪些快速增长的开源项… | 开源项目填补AI代理安全、记忆与SEO工具空白 |
-| 3 | 开发者被哪些工具变化卡住了 | Claude固定短语、HuggingFace护栏阻碍取证、AI代码审查让开发者耗尽 |
+| 1 | 有哪些 solo-founder 产… | 独立产品发布信号包，侧重早期单枪匹马的发布尝试 |
+| 2 | GitHub 上哪些快速增长的开源项… | AI渗透测试、代码知识图谱和开源视频制作等未商业化项目涌现 |
+| 3 | 开发者被哪些工具变化卡住了 | 备份可达致数据全毁，模型弃用和AWS错误账单迫使开发者承担隐性成本 |
 | | **🛠️ 技术选型** | |
-| 5 | 增长最快的开发者工具有哪些 | Apple硬件本地LLM提速6.4倍，命令卫士、远程代理与治理点共热 |
-| 6 | 开源社区有哪些热门模型和最新进展 | ThinkingCap 多模态思考、1-bit 量化模型手机运行、图转视频与3D GUI齐发 |
-| 8 | 最受欢迎的 Show HN 项目在用… | ESP32替代12万美元系统，浏览器本地TTS，350亿参数模型本地推理 |
+| 5 | 增长最快的开发者工具有哪些 | AI代理可续接浏览器状态，硬件隔离沙箱和CAD技能进入代理工作流 |
+| 6 | 开源社区有哪些热门模型和最新进展 | Qwythos-9B等多模态和本地部署模型热门，社区讨论新模型与成本优势 |
+| 8 | 最受欢迎的 Show HN 项目在用… | ESP32替代高价系统，WebAssembly和Rust引擎驱动的轻量级工具成主流 |
 | | **📡 竞争情报** | |
-| 9 | Indie 开发者在讨论哪些收入和定… | 17美元视频成本促生本地40美分方案，零收入平台标价出售，支付失败损失量化 |
-| 10 | 有没有沉寂的老项目突然复活 | Quake3地图浏览器编辑、Firefox递归运行、AR卫星追踪老项目复活 |
-| 11 | 有没有“XX 已死”或迁移类文章 | 一加退出欧美，索尼删已购电影，数字所有权和AI代码信任破裂 |
+| 9 | Indie 开发者在讨论哪些收入和定… | 独立开发者从零收入到£30k初期变现，价格实验增多但低转化仍是主流 |
+| 10 | 有没有沉寂的老项目突然复活 | Q3Edit等老游戏工具复活，Jellyfin维护者离开引发旧项目脆弱性讨论 |
+| 11 | 有没有“XX 已死”或迁移类文章 | OnePlus退出欧美，Sony删除已购电影，开发者从OpenCode迁向Pi |
 | | **📈 趋势判断** | |
-| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering与codebase memory主导，要求AI输出可审计和记忆安全 |
-| 13 | VC、YC 和创始人正在关注哪些预算… | 投资人追问agent失败处理、运营成本审计和小团队收入可持续性 |
+| 12 | 最常见的技术关键词是什么？它们如何变… | agentic engineering替代vibe coding，代码库记忆和系统提示审计成关键词 |
+| 13 | VC、YC 和创始人正在关注哪些预算… | 代理可观察性与隔离成新预算项，收入验证从MRR下探至可支配现金 |
 | | **🎯 行动触发** | |
-| 14 | 如果今天有 2 小时或一个完整周末，… | 用GPT5.6和25美元找到价值50万美元的WordPress RCE漏洞 |
-| 16 | 最反直觉的发现是什么 | AI护栏阻碍安全取证、自动化代码维护磨损本地硬件、沙箱逃逸威胁代理安全 |
-| 17 | Product Hunt 产品和开发… | AI桌面快捷回复、浏览器代理会话、销售预热等封装成即用产品 |
+| 14 | 如果今天有 2 小时或一个完整周末，… | 中国模型占据HN首页，开发者需要美国托管选项和政策保障 |
+| 16 | 最反直觉的发现是什么 | AI工具爆发但备份可达致数据全毁，低价模型泛滥却致弃用迁移成本对冲 |
+| 17 | Product Hunt 产品和开发… | Fypro将TikTok粉丝转为付费客户，Context.dev统一抓取API复用社交电商和AI应用 |
 | | ** 补充观察** | |
-| 20 | 哪些包在悄悄起飞，却没人谈论 | oxlint、axum、deno、actix-web 和 reflex 等现代工具链包下载量飙升 |
+| 20 | 哪些包在悄悄起飞，却没人谈论 | oxlint和serde等前端检查与序列化库在CI和API层默默支撑，无人讨论 |
 
 [完整归档 / Full archive →](zh/)
 
